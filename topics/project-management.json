@@ -1,0 +1,22 @@
+{
+    "topic": {
+        "attributes": {
+            "title": "Project management",
+            "description": null,
+            "snapshot_date": "2017-02-16",
+            "permanent_id": "project-management",
+            "chart_type": "market"
+        },
+        "items": [],
+        "axis": [],
+        "stages": [],
+        "size": []
+    },
+    "events": [
+        {
+            "date": null,
+            "source": null,
+            "title": null
+        }
+    ]
+}

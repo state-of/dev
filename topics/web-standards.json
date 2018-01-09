@@ -1,0 +1,105 @@
+{
+    "topic": {
+        "attributes": {
+            "title": "Web standards",
+            "description": null,
+            "snapshot_date": "2017-02-16",
+            "permanent_id": "web-standards",
+            "chart_type": "hype"
+        },
+        "items": [
+            {
+                "title": "HTTPS",
+                "description": "Https and SSL secure the data sent between a server and a user. \n\nThanks to free SSL certificates by [LetsEncrypt](https:\/\/letsencrypt.org\/\n) and Google's push to make https the default for every domain through [Chrome](https:\/\/security.googleblog.com\/2016\/09\/moving-towards-more-secure-web.html) a huge [jump](https:\/\/letsencrypt.org\/stats\/) in adoption occurred. ",
+                "axis": {
+                    "x": 0.848,
+                    "y": null
+                },
+                "id": "135"
+            },
+            {
+                "title": "PWA",
+                "description": "Progressive Web Apps brings native apps features to the web. Leveraging Service Workers, offline modus, a manifest and (background) push notifications are made available.\n\n### Resources\n* https:\/\/developers.google.com\/web\/progressive-web-apps\/\n* http:\/\/preview.pwabuilder.com\/",
+                "axis": {
+                    "x": 0.328,
+                    "y": null
+                },
+                "id": "134"
+            },
+            {
+                "title": "HTTP\/2",
+                "description": "HTTP\/2 is a (complex) successor to the existing decades old http protocol. The complexity is caused by its binary format (compared to the existing text) but that is also its strong point for a faster web experience.\n\nHTTP\/2 enforces SSL and allows webservers to pre-load certain content in the user's browser.\n\nhttps:\/\/en.wikipedia.org\/wiki\/HTTP\/2",
+                "axis": {
+                    "x": 0.282,
+                    "y": null
+                },
+                "id": "115"
+            },
+            {
+                "title": "WebRTC",
+                "description": "WebRTC provides (mobile) browsers Real-Time Communications (RTC) capabilities.\n\nhttps:\/\/www.w3.org\/TR\/webrtc\/",
+                "axis": {
+                    "x": 0.448,
+                    "y": null
+                },
+                "id": "114"
+            },
+            {
+                "title": "Service Workers",
+                "description": "Service Workers allow background processes in the browser, offline experiences, advanced caching, and push notifications. See also Progressive Web Apps.\n\n### Resources\n* https:\/\/www.w3.org\/TR\/service-workers\/\n* https:\/\/jakearchibald.github.io\/isserviceworkerready\/",
+                "axis": {
+                    "x": 0.562,
+                    "y": null
+                },
+                "id": "109"
+            },
+            {
+                "title": "Shadow DOM",
+                "description": "The Shadow DOM is an abstract version of the actual DOM. Allowing better UI implementations and modular CSS and Javascript.\n\nhttps:\/\/www.w3.org\/TR\/shadow-dom\/",
+                "axis": {
+                    "x": 0.66,
+                    "y": null
+                },
+                "id": "84"
+            },
+            {
+                "title": "WebAssembly",
+                "description": "WebAssembly brings binary compilation, and multithreading to the browser.\n\nhttp:\/\/webassembly.org\/",
+                "axis": {
+                    "x": 0.058,
+                    "y": null
+                },
+                "id": "80"
+            },
+            {
+                "title": "Web Components",
+                "description": "Web Components brings Custom Elements, Shadow DOM and HTML Imports together to allow for a native modular web development environment.\n\nhttps:\/\/www.w3.org\/standards\/techs\/components#w3c_all",
+                "axis": {
+                    "x": 0.3,
+                    "y": null
+                },
+                "id": "11"
+            }
+        ],
+        "axis": {
+            "y": {
+                "label": "Expectation"
+            }
+        },
+        "stages": [
+            "Innovation trigger",
+            "Peak expectation",
+            "Disillusionment",
+            "Enlightenment",
+            "Productivity plateau"
+        ],
+        "size": []
+    },
+    "events": [
+        {
+            "date": null,
+            "source": null,
+            "title": null
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "category": {
+        "attributes": {
+            "title": "Mobile",
+            "description": null,
+            "permanent_id": "mobile"
+        },
+        "topics": [
+            "design",
+            "ios-development",
+            "android-development"
+        ]
+    }
+}

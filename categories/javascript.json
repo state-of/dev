@@ -1,0 +1,20 @@
+{
+    "category": {
+        "attributes": {
+            "title": "Javascript",
+            "description": null,
+            "permanent_id": "javascript"
+        },
+        "topics": [
+            "web-standards",
+            "javascript-framework",
+            "text-editors",
+            "javascript-syntax",
+            "javascript-library",
+            "webserver",
+            "build-tools",
+            "test-tools",
+            "state-management"
+        ]
+    }
+}

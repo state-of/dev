@@ -1,0 +1,51 @@
+{
+    "topic": {
+        "attributes": {
+            "title": "DevOps",
+            "description": null,
+            "snapshot_date": "2017-02-16",
+            "permanent_id": "devops",
+            "chart_type": "bell"
+        },
+        "items": [
+            {
+                "title": "Ansible",
+                "description": "",
+                "axis": {
+                    "x": 0.658,
+                    "y": null
+                },
+                "id": "112"
+            },
+            {
+                "title": "Puppet",
+                "description": "",
+                "axis": {
+                    "x": 0.58,
+                    "y": null
+                },
+                "id": "111"
+            }
+        ],
+        "axis": {
+            "y": {
+                "label": "Adoption"
+            }
+        },
+        "stages": [
+            "Release",
+            "Growth",
+            "Maturity",
+            "Challenged",
+            "Superseded"
+        ],
+        "size": []
+    },
+    "events": [
+        {
+            "date": null,
+            "source": null,
+            "title": null
+        }
+    ]
+}

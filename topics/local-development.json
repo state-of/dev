@@ -1,0 +1,87 @@
+{
+    "topic": {
+        "attributes": {
+            "title": "Local development",
+            "description": null,
+            "snapshot_date": "2017-02-16",
+            "permanent_id": "local-development",
+            "chart_type": "bell"
+        },
+        "items": [
+            {
+                "title": "Yeoman",
+                "description": "http:\/\/yeoman.io\/",
+                "axis": {
+                    "x": 0.184,
+                    "y": null
+                },
+                "id": "113"
+            },
+            {
+                "title": "Homebrew",
+                "description": "https:\/\/brew.sh",
+                "axis": {
+                    "x": 0.656,
+                    "y": null
+                },
+                "id": "110"
+            },
+            {
+                "title": "SVN",
+                "description": "Subversion (SVN)\n\nhttps:\/\/subversion.apache.org\/",
+                "axis": {
+                    "x": 0.876,
+                    "y": null
+                },
+                "id": "108"
+            },
+            {
+                "title": "Git",
+                "description": "https:\/\/git-scm.com\/",
+                "axis": {
+                    "x": 0.502,
+                    "y": null
+                },
+                "id": "107"
+            },
+            {
+                "title": "Hot Reload",
+                "description": "",
+                "axis": {
+                    "x": 0.28,
+                    "y": null
+                },
+                "id": "106"
+            },
+            {
+                "title": "Virtual Machine",
+                "description": "",
+                "axis": {
+                    "x": 0.576,
+                    "y": null
+                },
+                "id": "105"
+            }
+        ],
+        "axis": {
+            "y": {
+                "label": "Adoption"
+            }
+        },
+        "stages": [
+            "Release",
+            "Growth",
+            "Maturity",
+            "Challenged",
+            "Superseded"
+        ],
+        "size": []
+    },
+    "events": [
+        {
+            "date": null,
+            "source": null,
+            "title": null
+        }
+    ]
+}

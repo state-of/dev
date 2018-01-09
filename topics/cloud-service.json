@@ -1,0 +1,69 @@
+{
+    "topic": {
+        "attributes": {
+            "title": "Cloud service",
+            "description": null,
+            "snapshot_date": "2017-02-16",
+            "permanent_id": "cloud-service",
+            "chart_type": "bell"
+        },
+        "items": [
+            {
+                "title": "Orchestration",
+                "description": "",
+                "axis": {
+                    "x": 0.198,
+                    "y": null
+                },
+                "id": "119"
+            },
+            {
+                "title": "Containers",
+                "description": "",
+                "axis": {
+                    "x": 0.592,
+                    "y": null
+                },
+                "id": "118"
+            },
+            {
+                "title": "CDN",
+                "description": "",
+                "axis": {
+                    "x": 0.512,
+                    "y": null
+                },
+                "id": "117"
+            },
+            {
+                "title": "Serverless compute",
+                "description": "",
+                "axis": {
+                    "x": 0.282,
+                    "y": null
+                },
+                "id": "116"
+            }
+        ],
+        "axis": {
+            "y": {
+                "label": "Adoption"
+            }
+        },
+        "stages": [
+            "Release",
+            "Growth",
+            "Maturity",
+            "Challenged",
+            "Superseded"
+        ],
+        "size": []
+    },
+    "events": [
+        {
+            "date": null,
+            "source": null,
+            "title": null
+        }
+    ]
+}

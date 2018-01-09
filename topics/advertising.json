@@ -1,0 +1,87 @@
+{
+    "topic": {
+        "attributes": {
+            "title": "Advertising",
+            "description": null,
+            "snapshot_date": "2017-02-22",
+            "permanent_id": "advertising",
+            "chart_type": "hype"
+        },
+        "items": [
+            {
+                "title": "Micropayments",
+                "description": "Micropayments ask consumers for a payment to the publishers. The benefits could be access to certain features, or to remove advertising.\n\nWithin mobile apps this (in the form of in-app purchases) is a strong revenue source. But on the web there is little adoption, attributed to the high barrier involved with performing an online payment.",
+                "axis": {
+                    "x": 0.334,
+                    "y": null
+                },
+                "id": "171"
+            },
+            {
+                "title": "Pay-walls",
+                "description": "Pay-walls block consumers from viewing certain content for free, but demand paid access by setting up a subscription or a one time transaction.",
+                "axis": {
+                    "x": 0.382,
+                    "y": null
+                },
+                "id": "170"
+            },
+            {
+                "title": "Remarketing",
+                "description": "Remarketing allows advertisers to retarget specific consumers at later stages on different platforms based on their behaviour.",
+                "axis": {
+                    "x": 0.89,
+                    "y": null
+                },
+                "id": "169"
+            },
+            {
+                "title": "Header bidding",
+                "description": "Header bidding allows publishers to have ad networks compete for a view by exposing a bid price, which then determines what ad network to load first.",
+                "axis": {
+                    "x": 0.188,
+                    "y": null
+                },
+                "id": "168"
+            },
+            {
+                "title": "Native",
+                "description": "Native advertising are commercial messages integrated into the editorial content.",
+                "axis": {
+                    "x": 0.548,
+                    "y": null
+                },
+                "id": "167"
+            },
+            {
+                "title": "Video ads",
+                "description": "",
+                "axis": {
+                    "x": 0.764,
+                    "y": null
+                },
+                "id": "166"
+            }
+        ],
+        "axis": {
+            "y": {
+                "label": "Expectation"
+            }
+        },
+        "stages": [
+            "Innovation trigger",
+            "Peak expectation",
+            "Disillusionment",
+            "Enlightenment",
+            "Productivity plateau"
+        ],
+        "size": []
+    },
+    "events": [
+        {
+            "date": null,
+            "source": null,
+            "title": null
+        }
+    ]
+}

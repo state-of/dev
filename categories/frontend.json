@@ -1,0 +1,24 @@
+{
+    "category": {
+        "attributes": {
+            "title": "Frontend",
+            "description": null,
+            "permanent_id": "frontend"
+        },
+        "topics": [
+            "web-standards",
+            "seo",
+            "javascript-framework",
+            "text-editors",
+            "javascript-syntax",
+            "css",
+            "javascript-library",
+            "local-development",
+            "design",
+            "build-tools",
+            "test-tools",
+            "state-management",
+            "webdev"
+        ]
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "topic": {
+        "attributes": {
+            "title": "Build tools",
+            "description": null,
+            "snapshot_date": "2017-02-16",
+            "permanent_id": "build-tools",
+            "chart_type": "bell"
+        },
+        "items": [
+            {
+                "title": "Browserify",
+                "description": "http:\/\/browserify.org\/",
+                "axis": {
+                    "x": 0.726,
+                    "y": null
+                },
+                "id": "66"
+            },
+            {
+                "title": "Gulp",
+                "description": "http:\/\/gulpjs.com\/",
+                "axis": {
+                    "x": 0.652,
+                    "y": null
+                },
+                "id": "65"
+            },
+            {
+                "title": "Grunt",
+                "description": "http:\/\/gruntjs.com\/",
+                "axis": {
+                    "x": 0.776,
+                    "y": null
+                },
+                "id": "64"
+            },
+            {
+                "title": "Webpack",
+                "description": "https:\/\/webpack.js.org\/",
+                "axis": {
+                    "x": 0.372,
+                    "y": null
+                },
+                "id": "63"
+            }
+        ],
+        "axis": {
+            "y": {
+                "label": "Adoption"
+            }
+        },
+        "stages": [
+            "Release",
+            "Growth",
+            "Maturity",
+            "Challenged",
+            "Superseded"
+        ],
+        "size": []
+    },
+    "events": [
+        {
+            "date": null,
+            "source": null,
+            "title": null
+        }
+    ]
+}

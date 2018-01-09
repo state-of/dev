@@ -1,0 +1,87 @@
+{
+    "topic": {
+        "attributes": {
+            "title": "Webserver",
+            "description": null,
+            "snapshot_date": "2017-02-16",
+            "permanent_id": "webserver",
+            "chart_type": "bell"
+        },
+        "items": [
+            {
+                "title": "Hapi",
+                "description": "",
+                "axis": {
+                    "x": 0.206,
+                    "y": null
+                },
+                "id": "77"
+            },
+            {
+                "title": "Meteor",
+                "description": "",
+                "axis": {
+                    "x": 0.242958,
+                    "y": null
+                },
+                "id": "74"
+            },
+            {
+                "title": "Express",
+                "description": "",
+                "axis": {
+                    "x": 0.284507,
+                    "y": null
+                },
+                "id": "73"
+            },
+            {
+                "title": "Nginx",
+                "description": "",
+                "axis": {
+                    "x": 0.611972,
+                    "y": null
+                },
+                "id": "72"
+            },
+            {
+                "title": "Node.js",
+                "description": "",
+                "axis": {
+                    "x": 0.397183,
+                    "y": null
+                },
+                "id": "71"
+            },
+            {
+                "title": "Apache",
+                "description": "",
+                "axis": {
+                    "x": 0.697183,
+                    "y": null
+                },
+                "id": "70"
+            }
+        ],
+        "axis": {
+            "y": {
+                "label": "Adoption"
+            }
+        },
+        "stages": [
+            "Release",
+            "Growth",
+            "Maturity",
+            "Challenged",
+            "Superseded"
+        ],
+        "size": []
+    },
+    "events": [
+        {
+            "date": null,
+            "source": null,
+            "title": null
+        }
+    ]
+}

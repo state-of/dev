@@ -1,0 +1,96 @@
+{
+    "topic": {
+        "attributes": {
+            "title": "Javascript syntax",
+            "description": null,
+            "snapshot_date": "2017-02-16",
+            "permanent_id": "javascript-syntax",
+            "chart_type": "bell"
+        },
+        "items": [
+            {
+                "title": "Flow",
+                "description": "https:\/\/flowtype.org\/",
+                "axis": {
+                    "x": 0.176,
+                    "y": null
+                },
+                "id": "85"
+            },
+            {
+                "title": "Vanilla",
+                "description": "Based on the ECMAscript specification *vanilla* or plain Javascript is making leaps with ES5 and ES6 that support advanced syntax and features.",
+                "axis": {
+                    "x": 0.634,
+                    "y": null
+                },
+                "id": "62"
+            },
+            {
+                "title": "TypeScript",
+                "description": "A superset to Javascript, enforcing typing and advanced OO programming.\n\nhttps:\/\/www.typescriptlang.org\/\n[typescript 2.2](https:\/\/blogs.msdn.microsoft.com\/typescript\/2017\/02\/22\/announcing-typescript-2-2\/)",
+                "axis": {
+                    "x": 0.288,
+                    "y": null
+                },
+                "id": "57"
+            },
+            {
+                "title": "CoffeeScript",
+                "description": "http:\/\/coffeescript.org\/",
+                "axis": {
+                    "x": 0.758,
+                    "y": null
+                },
+                "id": "56"
+            },
+            {
+                "title": "Babel",
+                "description": "Babel allows developers to write in the modern ECMAscript specification, while compiling to a wide range of (older) browser support.\n\nhttps:\/\/babeljs.io\/",
+                "axis": {
+                    "x": 0.368,
+                    "y": null
+                },
+                "id": "24"
+            },
+            {
+                "title": "ES6",
+                "description": "ES6 (ECMAScript 2015) is a highly anticipated successor to ES5 ('09) that implements features which makes Javascript a much better development language.\n\n### State events\nEdge browsers have almost fully implemented the spec:\n* https:\/\/blog.mozilla.org\/javascript\/2017\/02\/22\/ecmascript-2016plus-in-firefox\/\n* https:\/\/blog.chromium.org\/2016\/04\/es6-es7-in-browser.html\n",
+                "axis": {
+                    "x": 0.336,
+                    "y": null
+                },
+                "id": "23"
+            },
+            {
+                "title": "ES7 ",
+                "description": "ES7 (ECMA-262) brings more advanced features to Javascript, but the language specification is in draft.\n\n### State events\nEdge browsers are working on implementing the spec:\n* https:\/\/github.com\/tc39\/ecma262\n* https:\/\/blog.mozilla.org\/javascript\/2017\/02\/22\/ecmascript-2016plus-in-firefox\/\n* https:\/\/blog.chromium.org\/2016\/04\/es6-es7-in-browser.html",
+                "axis": {
+                    "x": 0.2,
+                    "y": null
+                },
+                "id": "22"
+            }
+        ],
+        "axis": {
+            "y": {
+                "label": "Adoption"
+            }
+        },
+        "stages": [
+            "Release",
+            "Growth",
+            "Maturity",
+            "Challenged",
+            "Superseded"
+        ],
+        "size": []
+    },
+    "events": [
+        {
+            "date": null,
+            "source": null,
+            "title": null
+        }
+    ]
+}

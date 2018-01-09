@@ -1,0 +1,105 @@
+{
+    "topic": {
+        "attributes": {
+            "title": "Cloud platform",
+            "description": null,
+            "snapshot_date": "2017-02-16",
+            "permanent_id": "cloud-platform",
+            "chart_type": "bell"
+        },
+        "items": [
+            {
+                "title": "Open Stack",
+                "description": "Open Stack is open source software for cloud tooling avoiding competitors' vendor lock-in. Rackspace and NASA are the founders of this project.\n\nhttps:\/\/www.openstack.org\/ ",
+                "axis": {
+                    "x": 0.246,
+                    "y": null
+                },
+                "id": "149"
+            },
+            {
+                "title": "Rackspace",
+                "description": "Rackspace was initially a traditional hosting company. They transformed by providing customers with their own cloud services, powered by Open Stack. But they are also known for their managed cross-vendor cloud services.\n\nhttps:\/\/www.rackspace.com",
+                "axis": {
+                    "x": 0.7,
+                    "y": null
+                },
+                "id": "137"
+            },
+            {
+                "title": "App Engine",
+                "description": "Google App Engine is the original cloud vision by Google, where developers can host their app in the cloud, and have it auto-scale behind the scenes.\n\nhttps:\/\/cloud.google.com\/appengine\/",
+                "axis": {
+                    "x": 0.864,
+                    "y": null
+                },
+                "id": "136"
+            },
+            {
+                "title": "Digitalocean",
+                "description": "Digitalocean is a cost effective and developer focused cloud hosting company. Digitalocean has build a custom solution centered around droplets.\n\nhttps:\/\/www.digitalocean.com\/",
+                "axis": {
+                    "x": 0.74,
+                    "y": null
+                },
+                "id": "87"
+            },
+            {
+                "title": "Heroku",
+                "description": "Heroku offers cloud hosting for apps. It early on became the go-to platform for Rails apps.\n\nhttps:\/\/www.heroku.com\/",
+                "axis": {
+                    "x": 0.768,
+                    "y": null
+                },
+                "id": "86"
+            },
+            {
+                "title": "AWS",
+                "description": "AWS (Amazon Web Services) is the market leader in cloud hosting, with a wide variety of services.\n\nhttp:\/\/aws.amazon.com\/",
+                "axis": {
+                    "x": 0.501408,
+                    "y": null
+                },
+                "id": "7"
+            },
+            {
+                "title": "Azure",
+                "description": "Azure by Microsoft is quickly gaining traction, attributed to their enterprise sales, after a relative late entry to market.\n\nhttps:\/\/azure.microsoft.com",
+                "axis": {
+                    "x": 0.37,
+                    "y": null
+                },
+                "id": "6"
+            },
+            {
+                "title": "Google Cloud",
+                "description": "Google Cloud Platform has matured strongly in the past years, and makes an almost equal competitor to AWS.\n\nhttps:\/\/cloud.google.com\/products\/",
+                "axis": {
+                    "x": 0.408,
+                    "y": null
+                },
+                "id": "5"
+            }
+        ],
+        "axis": {
+            "y": {
+                "label": "Adoption"
+            }
+        },
+        "stages": [
+            "Release",
+            "Growth",
+            "Maturity",
+            "Challenged",
+            "Superseded"
+        ],
+        "size": []
+    },
+    "events": [
+        {
+            "date": null,
+            "source": null,
+            "title": null
+        }
+    ]
+}

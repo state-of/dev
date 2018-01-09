@@ -1,0 +1,13 @@
+{
+    "category": {
+        "attributes": {
+            "title": "Design",
+            "description": null,
+            "permanent_id": "design"
+        },
+        "topics": [
+            "css",
+            "design"
+        ]
+    }
+}

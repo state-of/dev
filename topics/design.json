@@ -1,0 +1,78 @@
+{
+    "topic": {
+        "attributes": {
+            "title": "Design",
+            "description": null,
+            "snapshot_date": "2017-02-16",
+            "permanent_id": "design",
+            "chart_type": "bell"
+        },
+        "items": [
+            {
+                "title": "Atomic Design",
+                "description": "Atomic Design is a methodology initiated by Brad Frost, which focuses on interface design split into atoms, molecules, organisms and pages.\n\n* http:\/\/atomicdesign.bradfrost.com\/",
+                "axis": {
+                    "x": 0.201667,
+                    "y": null
+                },
+                "id": "185"
+            },
+            {
+                "title": "Metro",
+                "description": "Metro design was popularized by Microsoft for the Windows 10 platform. The design is focused for mobile touch accessibility by applying big colorful squares.\n\nhttps:\/\/www.microsoft.com\/en-us\/stories\/design\/\n\n",
+                "axis": {
+                    "x": 0.8,
+                    "y": null
+                },
+                "id": "130"
+            },
+            {
+                "title": "Skeuomorphic",
+                "description": "Skeuomorphic tries to reflect real life objects. E.g. a wallet, would have a leather look and stitches. Up to iOS 6 ('13) skeuomorphism was the default on the iPhone and iPad.",
+                "axis": {
+                    "x": 0.884,
+                    "y": null
+                },
+                "id": "83"
+            },
+            {
+                "title": "Flat",
+                "description": "Flat design tries to drop as much unneeded visual elements like gradients and shadows, and focuses on the use of distinct colors.",
+                "axis": {
+                    "x": 0.766,
+                    "y": null
+                },
+                "id": "82"
+            },
+            {
+                "title": "Material Design",
+                "description": "Material design is promoted by Google as their guideline for web and mobile interface design.\n\nTheir products (gmail, search, analytics) all moved to material design. Also for their open source tools (Angular, Polymer) they supply Material Design UI elements.\n\n[material.io](https:\/\/material.io\/)\n[material-components-web](https:\/\/github.com\/material-components\/material-components-web)",
+                "axis": {
+                    "x": 0.364,
+                    "y": null
+                },
+                "id": "81"
+            }
+        ],
+        "axis": {
+            "y": {
+                "label": "Adoption"
+            }
+        },
+        "stages": [
+            "Release",
+            "Growth",
+            "Maturity",
+            "Challenged",
+            "Superseded"
+        ],
+        "size": []
+    },
+    "events": [
+        {
+            "date": null,
+            "source": null,
+            "title": null
+        }
+    ]
+}

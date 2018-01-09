@@ -1,0 +1,132 @@
+{
+    "topic": {
+        "attributes": {
+            "title": "Technology",
+            "description": null,
+            "snapshot_date": "2017-02-16",
+            "permanent_id": "technology",
+            "chart_type": "hype"
+        },
+        "items": [
+            {
+                "title": "Machine Learning",
+                "description": "Machine Learning is a concept where computers aren't programmed to respond to input in a specific way, but the computer is trained against a set of relevant data on which it can extract a response based on patterns it found. \n\nTensorFlow. ",
+                "axis": {
+                    "x": 0.777465,
+                    "y": null
+                },
+                "id": "186"
+            },
+            {
+                "title": "5G",
+                "description": "5G, refers to the 5th generation of wireless telecommunications standards, which follows up 4G. 5G is expected to have 1ms latency and 10 Gbps throughput (open-sight).\n\n### Resources\n* http:\/\/www.huawei.com\/minisite\/5g\/en\/defining-5g.html\n* https:\/\/en.wikipedia.org\/wiki\/5G",
+                "axis": {
+                    "x": 0.0683333,
+                    "y": null
+                },
+                "id": "184"
+            },
+            {
+                "title": "Big Data",
+                "description": "Big Data is a term used referencing to (raw) data collected from sensors or activity which is stored somewhere. Increased interest in Big Data comes from more accessible tools that are able to analyse data into valuable insights.\n",
+                "axis": {
+                    "x": 0.335,
+                    "y": null
+                },
+                "id": "183"
+            },
+            {
+                "title": "Cryptocurrency",
+                "description": "Cryptocurrency, like Bitcoin or [Ethereum](https:\/\/www.ethereum.org\/) is an implementation based on blockchain technology that allows users to execute financial transactions.\n\n[Bitcoin](https:\/\/en.wikipedia.org\/wiki\/Bitcoin)",
+                "axis": {
+                    "x": 0.286,
+                    "y": null
+                },
+                "id": "128"
+            },
+            {
+                "title": "Autonomous cars (2)",
+                "description": "Autonomous Cars is in a major surge of activity due to a combination of investments by carmakers and technology changes.\n\nLevel 2 autonomy entails an auto-pilot, but a driver needs to be available to take the wheel at any given time. Tesla has this in production.\n\n### Resources\n\n* See all [levels](https:\/\/en.wikipedia.org\/wiki\/Autonomous_car#Classification).\n* [Let\u2019s Talk About Self-Driving Cars\n](https:\/\/medium.com\/swlh\/lets-talk-about-self-driving-cars-387cd5adb834)\n",
+                "axis": {
+                    "x": 0.71,
+                    "y": null
+                },
+                "id": "127"
+            },
+            {
+                "title": "Smart Home",
+                "description": "A Smart Home is a house where devices are connected to each other, or to the internet. Examples are thermostats (Nest), lighting (Hue) or refrigerators (Samsung). The smart in Smart Home refers to how these devices are able to be controlled remotely, or how their sensors can interact with each other.\n\nThere are still many competing standards, making it not very consumer friendly.",
+                "axis": {
+                    "x": 0.53,
+                    "y": null
+                },
+                "id": "126"
+            },
+            {
+                "title": "Voice Assistants",
+                "description": "Voice Assistants allows consumer to control a device by voice.\n\nOnly recently the AI quality has significantly improved, together with integrations 3rd party API's allowing the devices to understand and execute a wide range of commands.\n\nInitially made popular by Apple's Siri, now Amazon Echo is taking the lead (with an [open platform](https:\/\/developer.amazon.com\/alexa)), followed by Google's Home.\n\nSee this [list](https:\/\/en.wikipedia.org\/wiki\/Intelligent_personal_assistant) with more devices.",
+                "axis": {
+                    "x": 0.574,
+                    "y": null
+                },
+                "id": "125"
+            },
+            {
+                "title": "IoT",
+                "description": "Internet of Things (IoT) refers to the concept of devices connected to the internet. \n\nThis allows them to be remotely controlled",
+                "axis": {
+                    "x": 0.31,
+                    "y": null
+                },
+                "id": "124"
+            },
+            {
+                "title": "Autonomous cars (4)",
+                "description": "Level 4 autonomous cars doesn't require the driver's attention when driving.\n\nLevel 5 means no human intervention is required from start to finish.",
+                "axis": {
+                    "x": 0.138333,
+                    "y": null
+                },
+                "id": "123"
+            },
+            {
+                "title": "Augmented Reality",
+                "description": "Adds a visual layer of data over real-world environment. Current applications are either based on a camera (phone) or glasses where the displays shows the surroundings with additional information.\n\nGoogle Glass was canceled. But the recent success of the game Pokemon sparked interest again in this technology.",
+                "axis": {
+                    "x": 0.41,
+                    "y": null
+                },
+                "id": "122"
+            },
+            {
+                "title": "VR",
+                "description": "Virtual Reality creates a digital environment which is then is experienced by using glasses and headphones.\n\nOculus Rift, bought by Facebook got much attention due to Facebook's investment in the technology, but also its competitors HTC Vive and PlayStation VR attracted much attention.\n\n### Resources\n\n* [HTC reveals how many Vives have been sold so far](https:\/\/www.wareable.com\/vr\/htc-vive-sales-august-september-2016) \n* [Two Years Later: Facebook's Oculus Acquisition Has Changed Virtual Reality Forever](https:\/\/www.recode.net\/2016\/3\/24\/11587234\/two-years-later-facebooks-oculus-acquisition-has-changed-virtual)\n* [Popularity of Sony\u2019s PlayStation VR Surprises Even the Company](https:\/\/www.nytimes.com\/2017\/02\/26\/business\/sony-playstation-vr-sales.html)\n",
+                "axis": {
+                    "x": 0.478,
+                    "y": null
+                },
+                "id": "121"
+            }
+        ],
+        "axis": {
+            "y": {
+                "label": "Expectation"
+            }
+        },
+        "stages": [
+            "Innovation trigger",
+            "Peak expectation",
+            "Disillusionment",
+            "Enlightenment",
+            "Productivity plateau"
+        ],
+        "size": []
+    },
+    "events": [
+        {
+            "date": null,
+            "source": null,
+            "title": null
+        }
+    ]
+}

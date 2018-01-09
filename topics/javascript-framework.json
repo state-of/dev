@@ -1,0 +1,96 @@
+{
+    "topic": {
+        "attributes": {
+            "title": "Javascript framework",
+            "description": null,
+            "snapshot_date": "2017-02-16",
+            "permanent_id": "javascript-framework",
+            "chart_type": "bell"
+        },
+        "items": [
+            {
+                "title": "Polymer 2.0",
+                "description": "Polymer 2.0 is build around the shadow DOM 1.0 specification. This allows its framework to leverage native Web Components in edge browsers.\n\nhttps:\/\/www.polymer-project.org\/2.0\/docs\/about_20",
+                "axis": {
+                    "x": 0.16,
+                    "y": null
+                },
+                "id": "141"
+            },
+            {
+                "title": "Aurelia",
+                "description": "See [Aurelia](http:\/\/aurelia.io\/).",
+                "axis": {
+                    "x": 0.196,
+                    "y": null
+                },
+                "id": "139"
+            },
+            {
+                "title": "ember.js",
+                "description": "See [Ember.js](http:\/\/emberjs.com\/).",
+                "axis": {
+                    "x": 0.788,
+                    "y": null
+                },
+                "id": "26"
+            },
+            {
+                "title": "AngularJS",
+                "description": "AngularJS or Angular 1.0 has seen strong adoption due to its innovation in javascript development [angularJS](https:\/\/angularjs.org\/) but it is advised to move forward with Angular 2.",
+                "axis": {
+                    "x": 0.734,
+                    "y": null
+                },
+                "id": "8"
+            },
+            {
+                "title": "Angular 2",
+                "description": "A long awaited major release to [AngularJS](https:\/\/angular.io\/). Angular has taken a different route compared to React, where both framework compete each other. \n\nhttps:\/\/angular.io\/",
+                "axis": {
+                    "x": 0.332,
+                    "y": null
+                },
+                "id": "4"
+            },
+            {
+                "title": "Vue.js",
+                "description": "A strong competitor to React is [Vue.js](https:\/\/vuejs.org\/). Both demand the latest javascript spec for development and all its advantages. Vue promotes itself to test better in [performance](https:\/\/vuejs.org\/v2\/guide\/comparison.html).",
+                "axis": {
+                    "x": 0.262,
+                    "y": null
+                },
+                "id": "2"
+            },
+            {
+                "title": "React",
+                "description": "Taking the lead in modern modular frameworks [React](https:\/\/facebook.github.io\/react\/) has created a very strong following, and an innovative standard for (frontend) web development. ",
+                "axis": {
+                    "x": 0.372,
+                    "y": null
+                },
+                "id": "1"
+            }
+        ],
+        "axis": {
+            "y": {
+                "label": "Adoption"
+            }
+        },
+        "stages": [
+            "Release",
+            "Growth",
+            "Maturity",
+            "Challenged",
+            "Superseded"
+        ],
+        "size": []
+    },
+    "events": [
+        {
+            "date": null,
+            "source": null,
+            "title": null
+        }
+    ]
+}

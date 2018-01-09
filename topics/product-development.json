@@ -1,0 +1,105 @@
+{
+    "topic": {
+        "attributes": {
+            "title": "Product development",
+            "description": null,
+            "snapshot_date": "2017-02-16",
+            "permanent_id": "product-development",
+            "chart_type": "hype"
+        },
+        "items": [
+            {
+                "title": "Lean",
+                "description": "\n\nhttps:\/\/en.wikipedia.org\/wiki\/Lean_software_development",
+                "axis": {
+                    "x": 0.364,
+                    "y": null
+                },
+                "id": "162"
+            },
+            {
+                "title": "Hacker",
+                "description": "The Hacker ethos consists of making software work, but allowing for short cuts. ",
+                "axis": {
+                    "x": 0.506,
+                    "y": null
+                },
+                "id": "133"
+            },
+            {
+                "title": "Kanban",
+                "description": "Kanban development utilizes visual cards that move between columns as work complete certain stages. \n\nhttps:\/\/en.wikipedia.org\/wiki\/Kanban",
+                "axis": {
+                    "x": 0.734,
+                    "y": null
+                },
+                "id": "120"
+            },
+            {
+                "title": "Waterfall",
+                "description": "Waterfall is based on extensive planning and consists of distinct phases which flow after each other.\n\nhttps:\/\/en.wikipedia.org\/wiki\/Waterfall_model",
+                "axis": {
+                    "x": 0.444,
+                    "y": null
+                },
+                "id": "95"
+            },
+            {
+                "title": "Agile",
+                "description": "Agile focuses on adapting to changes during a projects life cycle using iterative development.\n\nScrum implements agile.\n\nhttps:\/\/en.wikipedia.org\/wiki\/Agile_software_development",
+                "axis": {
+                    "x": 0.908,
+                    "y": null
+                },
+                "id": "94"
+            },
+            {
+                "title": "Design Sprint",
+                "description": "http:\/\/www.gv.com\/sprint\/",
+                "axis": {
+                    "x": 0.168,
+                    "y": null
+                },
+                "id": "90"
+            },
+            {
+                "title": "Scrum",
+                "description": "https:\/\/en.wikipedia.org\/wiki\/Scrum_(software_development)",
+                "axis": {
+                    "x": 0.804,
+                    "y": null
+                },
+                "id": "89"
+            },
+            {
+                "title": "OKR",
+                "description": "OKR is a framework of defining and tracking objectives and their outcomes.\n\nhttps:\/\/en.wikipedia.org\/wiki\/OKR",
+                "axis": {
+                    "x": 0.66,
+                    "y": null
+                },
+                "id": "88"
+            }
+        ],
+        "axis": {
+            "y": {
+                "label": "Expectation"
+            }
+        },
+        "stages": [
+            "Innovation trigger",
+            "Peak expectation",
+            "Disillusionment",
+            "Enlightenment",
+            "Productivity plateau"
+        ],
+        "size": []
+    },
+    "events": [
+        {
+            "date": null,
+            "source": null,
+            "title": null
+        }
+    ]
+}

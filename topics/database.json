@@ -1,0 +1,87 @@
+{
+    "topic": {
+        "attributes": {
+            "title": "Database",
+            "description": null,
+            "snapshot_date": "2017-02-16",
+            "permanent_id": "database",
+            "chart_type": "bell"
+        },
+        "items": [
+            {
+                "title": "GraphQL",
+                "description": "http:\/\/graphql.org\/learn\/",
+                "axis": {
+                    "x": 0.274,
+                    "y": null
+                },
+                "id": "131"
+            },
+            {
+                "title": "PostgreSQL",
+                "description": "https:\/\/www.postgresql.org\/",
+                "axis": {
+                    "x": 0.56,
+                    "y": null
+                },
+                "id": "101"
+            },
+            {
+                "title": "SQLite",
+                "description": "https:\/\/www.sqlite.org\/",
+                "axis": {
+                    "x": 0.218,
+                    "y": null
+                },
+                "id": "100"
+            },
+            {
+                "title": "MariaDB",
+                "description": "https:\/\/mariadb.org\/",
+                "axis": {
+                    "x": 0.44,
+                    "y": null
+                },
+                "id": "99"
+            },
+            {
+                "title": "MySql",
+                "description": "https:\/\/www.mysql.com\/",
+                "axis": {
+                    "x": 0.668333,
+                    "y": null
+                },
+                "id": "98"
+            },
+            {
+                "title": "Mongo",
+                "description": "https:\/\/www.mongodb.com\/",
+                "axis": {
+                    "x": 0.78,
+                    "y": null
+                },
+                "id": "97"
+            }
+        ],
+        "axis": {
+            "y": {
+                "label": "Adoption"
+            }
+        },
+        "stages": [
+            "Release",
+            "Growth",
+            "Maturity",
+            "Challenged",
+            "Superseded"
+        ],
+        "size": []
+    },
+    "events": [
+        {
+            "date": null,
+            "source": null,
+            "title": null
+        }
+    ]
+}

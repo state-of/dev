@@ -1,0 +1,27 @@
+{
+    "category": {
+        "attributes": {
+            "title": "Backend",
+            "description": null,
+            "permanent_id": "backend"
+        },
+        "topics": [
+            "programming-language",
+            "cloud-platform",
+            "text-editors",
+            "domain-extension",
+            "php-framework",
+            "webserver",
+            "database",
+            "local-development",
+            "cloud-service",
+            "test-tools",
+            "machine-intelligence",
+            "webdev",
+            "devops",
+            "python-framework",
+            "cloud-deployment",
+            "growth-hacks"
+        ]
+    }
+}

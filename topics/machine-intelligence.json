@@ -1,0 +1,60 @@
+{
+    "topic": {
+        "attributes": {
+            "title": "Machine intelligence",
+            "description": null,
+            "snapshot_date": "2017-02-16",
+            "permanent_id": "machine-intelligence",
+            "chart_type": "bell"
+        },
+        "items": [
+            {
+                "title": "Watson",
+                "description": "",
+                "axis": {
+                    "x": 0.68,
+                    "y": null
+                },
+                "id": "104"
+            },
+            {
+                "title": "OpenAI",
+                "description": "",
+                "axis": {
+                    "x": 0.31,
+                    "y": null
+                },
+                "id": "103"
+            },
+            {
+                "title": "TensorFlow",
+                "description": "",
+                "axis": {
+                    "x": 0.52,
+                    "y": null
+                },
+                "id": "102"
+            }
+        ],
+        "axis": {
+            "y": {
+                "label": "Adoption"
+            }
+        },
+        "stages": [
+            "Release",
+            "Growth",
+            "Maturity",
+            "Challenged",
+            "Superseded"
+        ],
+        "size": []
+    },
+    "events": [
+        {
+            "date": null,
+            "source": null,
+            "title": null
+        }
+    ]
+}

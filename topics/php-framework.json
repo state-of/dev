@@ -1,0 +1,87 @@
+{
+    "topic": {
+        "attributes": {
+            "title": "PHP framework",
+            "description": null,
+            "snapshot_date": "2017-02-16",
+            "permanent_id": "php-framework",
+            "chart_type": "bell"
+        },
+        "items": [
+            {
+                "title": "CodeIgniter",
+                "description": "https:\/\/codeigniter.com\/",
+                "axis": {
+                    "x": 0.743253,
+                    "y": null
+                },
+                "id": "55"
+            },
+            {
+                "title": "CakePHP",
+                "description": "https:\/\/cakephp.org\/",
+                "axis": {
+                    "x": 0.88,
+                    "y": null
+                },
+                "id": "54"
+            },
+            {
+                "title": "Laravel",
+                "description": "https:\/\/laravel.com\/",
+                "axis": {
+                    "x": 0.48,
+                    "y": null
+                },
+                "id": "39"
+            },
+            {
+                "title": "Zend 1",
+                "description": "https:\/\/framework.zend.com\/manual\/1.11\/en\/manual.html",
+                "axis": {
+                    "x": 0.702,
+                    "y": null
+                },
+                "id": "30"
+            },
+            {
+                "title": "Zend 2+",
+                "description": "https:\/\/framework.zend.com\/",
+                "axis": {
+                    "x": 0.418,
+                    "y": null
+                },
+                "id": "28"
+            },
+            {
+                "title": "Symfony",
+                "description": "https:\/\/symfony.com\/",
+                "axis": {
+                    "x": 0.572,
+                    "y": null
+                },
+                "id": "27"
+            }
+        ],
+        "axis": {
+            "y": {
+                "label": "Adoption"
+            }
+        },
+        "stages": [
+            "Release",
+            "Growth",
+            "Maturity",
+            "Challenged",
+            "Superseded"
+        ],
+        "size": []
+    },
+    "events": [
+        {
+            "date": null,
+            "source": null,
+            "title": null
+        }
+    ]
+}

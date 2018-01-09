@@ -1,0 +1,17 @@
+{
+    "category": {
+        "attributes": {
+            "title": "Tech",
+            "description": null,
+            "permanent_id": "tech"
+        },
+        "topics": [
+            "programming-language",
+            "technology",
+            "web-standards",
+            "cloud-service",
+            "machine-intelligence",
+            "wireless-audio"
+        ]
+    }
+}

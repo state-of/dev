@@ -1,0 +1,132 @@
+{
+    "topic": {
+        "attributes": {
+            "title": "Programming language",
+            "description": null,
+            "snapshot_date": "2017-02-16",
+            "permanent_id": "programming-language",
+            "chart_type": "hype"
+        },
+        "items": [
+            {
+                "title": "#F",
+                "description": "F Sharp (#F) is an open source cross-platform language, lead by Microsoft and part of the .NET languages. \n\n### Resources\n* https:\/\/en.wikipedia.org\/wiki\/F_Sharp_(programming_language)\n* https:\/\/docs.microsoft.com\/en-us\/dotnet\/articles\/fsharp\/tour\n* http:\/\/www.tryfsharp.org\/Create.",
+                "axis": {
+                    "x": 0.11,
+                    "y": null
+                },
+                "id": "180"
+            },
+            {
+                "title": "Rust",
+                "description": "Rust is an open source language, with Mozilla as lead contributor, focussed on concurrency and memory safety. \n\n### Resources\n* https:\/\/www.rust-lang.org\n* [arewewebyet](http:\/\/www.arewewebyet.org\/).",
+                "axis": {
+                    "x": 0.136,
+                    "y": null
+                },
+                "id": "163"
+            },
+            {
+                "title": "Java",
+                "description": "Java programming language has a long history. It is still widely deployed on webservers. Java is also the core language of Google's Android.",
+                "axis": {
+                    "x": 0.96,
+                    "y": null
+                },
+                "id": "153"
+            },
+            {
+                "title": "Objective-C",
+                "description": "Objective-C has a long past. It's still in the picture thanks to iOS having objective-c as the core language for its OS.\n\nhttps:\/\/developer.apple.com\/library\/content\/documentation\/Cocoa\/Conceptual\/ProgrammingWithObjectiveC\/Introduction\/Introduction.html#\/\/apple_ref\/doc\/uid\/TP40011210",
+                "axis": {
+                    "x": 0.698,
+                    "y": null
+                },
+                "id": "152"
+            },
+            {
+                "title": ".NET",
+                "description": ".NET refers to several actual programming languages: C#, F# or Visual basic.\n\n### Resources\n* https:\/\/blogs.msdn.microsoft.com\/dotnet\/2017\/02\/01\/the-net-language-strategy\/\n* https:\/\/www.microsoft.com\/net",
+                "axis": {
+                    "x": 0.774,
+                    "y": null
+                },
+                "id": "78"
+            },
+            {
+                "title": "Go",
+                "description": "Go is open source software, with Google as lead contributor, with a focus on simplicity and reliability,\n\nSee https:\/\/golang.org\/ or the [code playground](https:\/\/play.golang.org\/).",
+                "axis": {
+                    "x": 0.262,
+                    "y": null
+                },
+                "id": "50"
+            },
+            {
+                "title": "Swift",
+                "description": "Developed for Apple's ecosystem (iOS, macOS). Swift is a modern language.\n\nhttps:\/\/developer.apple.com\/swift\/",
+                "axis": {
+                    "x": 0.182639,
+                    "y": null
+                },
+                "id": "49"
+            },
+            {
+                "title": "Ruby",
+                "description": "Ruby, made popular by the framework Ruby on Rails was adopted quickly for web development thanks to its simplicity and productivity. Compared to its sibling PHP, Ruby was seen a a breath of fresh air. Performance is still improving.\n\nhttps:\/\/www.ruby-lang.org\/en\/",
+                "axis": {
+                    "x": 0.466,
+                    "y": null
+                },
+                "id": "48"
+            },
+            {
+                "title": "Python 3",
+                "description": "Python 3 is a highly anticipated successor to Python 2. But due to breaking changes, developers are relatively slowly migrating away from 2.0.\n\nhttps:\/\/www.python.org",
+                "axis": {
+                    "x": 0.57,
+                    "y": null
+                },
+                "id": "47"
+            },
+            {
+                "title": "Python 2",
+                "description": "Python 2 is seen as a high quality language. It has a grand ecosystem and still under development, although its successor (v3) has been around for a while now.\n\nhttps:\/\/www.python.org",
+                "axis": {
+                    "x": 0.927498,
+                    "y": null
+                },
+                "id": "46"
+            },
+            {
+                "title": "PHP",
+                "description": "PHP has become popular as a easy to learn language and the default stack on web servers in the past decade. Challenged by many improved languages, PHP is still the backbone for much of the world's web development.\n\nThe latest, PHP7, is a still a reliable option for web development.\n\nhttps:\/\/php.net\/",
+                "axis": {
+                    "x": 0.838,
+                    "y": null
+                },
+                "id": "45"
+            }
+        ],
+        "axis": {
+            "y": {
+                "label": "Expectation"
+            }
+        },
+        "stages": [
+            "Innovation trigger",
+            "Peak expectation",
+            "Disillusionment",
+            "Enlightenment",
+            "Productivity plateau"
+        ],
+        "size": []
+    },
+    "events": [
+        {
+            "date": null,
+            "source": null,
+            "title": null
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "category": {
+        "attributes": {
+            "title": "Management",
+            "description": null,
+            "permanent_id": "management"
+        },
+        "topics": [
+            "technology",
+            "seo",
+            "product-development",
+            "advertising",
+            "growth-hacks"
+        ]
+    }
+}

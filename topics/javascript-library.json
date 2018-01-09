@@ -1,0 +1,87 @@
+{
+    "topic": {
+        "attributes": {
+            "title": "Javascript library",
+            "description": null,
+            "snapshot_date": "2017-02-16",
+            "permanent_id": "javascript-library",
+            "chart_type": "bell"
+        },
+        "items": [
+            {
+                "title": "Vanilla",
+                "description": "The latest ECMAScript standard development gives ES6 (and beyond) many functions javascript was previously missing. Javascript development doesn't demand a library anymore, with plain or vanilla covering the basics and a compiler (Babel) covering cross-browser support.",
+                "axis": {
+                    "x": 0.47401,
+                    "y": null
+                },
+                "id": "150"
+            },
+            {
+                "title": "Zepto",
+                "description": "Zepto is build as a lightweight variant of jQuery, supporting the same syntax, but with less old browser support (e.g. from IE10+).\n\nhttp:\/\/zeptojs.com\/",
+                "axis": {
+                    "x": 0.746,
+                    "y": null
+                },
+                "id": "79"
+            },
+            {
+                "title": "underscore.js",
+                "description": "Underscore is a more advanced library, but its development is getting less attention.\n\nhttp:\/\/underscorejs.org\/",
+                "axis": {
+                    "x": 0.885832,
+                    "y": null
+                },
+                "id": "21"
+            },
+            {
+                "title": "Lodash",
+                "description": "Lodash has become the default library for modern javascript development.\n\nhttps:\/\/lodash.com\/",
+                "axis": {
+                    "x": 0.364,
+                    "y": null
+                },
+                "id": "17"
+            },
+            {
+                "title": "MooTools",
+                "description": "MooTool is no longer being actively maintained.\n\nhttps:\/\/mootools.net\/",
+                "axis": {
+                    "x": 0.928,
+                    "y": null
+                },
+                "id": "16"
+            },
+            {
+                "title": "jQuery",
+                "description": "jQuery is the most well know and most used javascript library to this day. Its accessible for beginners as well as experts. Its signature style is the $ character followed by a selector. It continues to be in active development even after 10 years.\n\nhttps:\/\/jquery.com\/",
+                "axis": {
+                    "x": 0.8,
+                    "y": null
+                },
+                "id": "3"
+            }
+        ],
+        "axis": {
+            "y": {
+                "label": "Adoption"
+            }
+        },
+        "stages": [
+            "Release",
+            "Growth",
+            "Maturity",
+            "Challenged",
+            "Superseded"
+        ],
+        "size": []
+    },
+    "events": [
+        {
+            "date": null,
+            "source": null,
+            "title": null
+        }
+    ]
+}

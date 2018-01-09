@@ -1,0 +1,105 @@
+{
+    "topic": {
+        "attributes": {
+            "title": "SEO",
+            "description": null,
+            "snapshot_date": "2017-02-16",
+            "permanent_id": "seo",
+            "chart_type": "bell"
+        },
+        "items": [
+            {
+                "title": "Negative SEO",
+                "description": "Negative SEO is a black hat activity that aims at hurting the ranking of a competitor, by buying links or sending other low quality signals to Google's algoritm (comment spam).\n\nhttps:\/\/moz.com\/blog\/preparing-for-negative-seo",
+                "axis": {
+                    "x": 0.295775,
+                    "y": null
+                },
+                "id": "188"
+            },
+            {
+                "title": "Buying Links",
+                "description": "Buying Links to gain pagerank\/authority is against Google's Webmaster Guidelines. While still effective in the early years of Google's algoritme, it currently almost always triggers ranking penalties. \n\n\nhttps:\/\/support.google.com\/webmasters\/answer\/66356?hl=en",
+                "axis": {
+                    "x": 0.91831,
+                    "y": null
+                },
+                "id": "187"
+            },
+            {
+                "title": "Mobile-First Indexing",
+                "description": "Mobile-First indexing announced by Google end of '16 will replace the desktop with the mobile version of a website as the core index and ranking foundation.\n\nhttps:\/\/webmasters.googleblog.com\/2016\/11\/mobile-first-indexing.html",
+                "axis": {
+                    "x": 0.102113,
+                    "y": null
+                },
+                "id": "75"
+            },
+            {
+                "title": "Disavow Links",
+                "description": "Disavowing links allows website owners to indicate to Google's ranking system that links coming from a (spam) site are not to be used as part of their site quality and ranking.\n\nhttps:\/\/support.google.com\/webmasters\/answer\/2648487",
+                "axis": {
+                    "x": 0.69835,
+                    "y": null
+                },
+                "id": "44"
+            },
+            {
+                "title": "Microdata",
+                "description": "Microdata is a specification for semantic data. Semantic data is a recurring topic among engineers. It allows html to be machine parsable and readable, explaining contents and creating relations between data items.\n\nGoogle uses semantic data for its visual Rich Snippets.\n\nhttps:\/\/developers.google.com\/schemas\/formats\/microdata",
+                "axis": {
+                    "x": 0.805789,
+                    "y": null
+                },
+                "id": "43"
+            },
+            {
+                "title": "JSON-LD",
+                "description": "JSON-LD is the latest specification for semantic data. It allows for machine readable code blocks, that descripe relations and content within a html page.\n\nGoogle uses semantic data for its visual Rich Snippets.\n\nhttps:\/\/developers.google.com\/schemas\/formats\/json-ld",
+                "axis": {
+                    "x": 0.201098,
+                    "y": null
+                },
+                "id": "42"
+            },
+            {
+                "title": "Incoming links",
+                "description": "Incoming links are (still) at the core of Google's ranking algoritm.",
+                "axis": {
+                    "x": 0.512397,
+                    "y": null
+                },
+                "id": "41"
+            },
+            {
+                "title": "AMP",
+                "description": "AMP is a new initiative based around a new html specification, structured as open source, which allows search engines to serve sites almost instant. Using pre-rendering, caching, async loading, and other techniques sites are optimized for speed.\n\nAMP sites have an visual indicator in the SERP making them a stand out target for users to choose as their destination.\n\nhttps:\/\/www.ampproject.org\/",
+                "axis": {
+                    "x": 0.25344,
+                    "y": null
+                },
+                "id": "40"
+            }
+        ],
+        "axis": {
+            "y": {
+                "label": "Adoption"
+            }
+        },
+        "stages": [
+            "Release",
+            "Growth",
+            "Maturity",
+            "Challenged",
+            "Superseded"
+        ],
+        "size": []
+    },
+    "events": [
+        {
+            "date": null,
+            "source": null,
+            "title": null
+        }
+    ]
+}

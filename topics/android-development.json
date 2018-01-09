@@ -1,0 +1,60 @@
+{
+    "topic": {
+        "attributes": {
+            "title": "Android development",
+            "description": null,
+            "snapshot_date": "2017-02-16",
+            "permanent_id": "android-development",
+            "chart_type": "bell"
+        },
+        "items": [
+            {
+                "title": "Web View Wrapper",
+                "description": "Phonegap, Cordova or other similar tools allow developers to write HTML and CSS, and employ the mobile's  native API's.\n\nThe app is a wrapper, which loads html from a webserver.",
+                "axis": {
+                    "x": 0.766,
+                    "y": null
+                },
+                "id": "156"
+            },
+            {
+                "title": "Java",
+                "description": "The Java programming language is the core language for Android development.",
+                "axis": {
+                    "x": 0.506,
+                    "y": null
+                },
+                "id": "155"
+            },
+            {
+                "title": "React Native",
+                "description": "React Native is a relative young project with major early adoption by developers thanks to a unique combination of Javascript language environment, maxOS\/Windows\/Linux support and actual native Android and iOS compilation. The write-once, deploy everywhere philosophy has previously been disappointing, but React Native comes very close, see ([React Native at Instagram](https:\/\/engineering.instagram.com\/react-native-at-instagram-dd828a9a90c7#.e9jz0r6e8)).\n\nIncluded devtools like Hot Reload make it very developer friendly compared to java or objective-c.\n\nhttps:\/\/facebook.github.io\/react-native\/",
+                "axis": {
+                    "x": 0.348,
+                    "y": null
+                },
+                "id": "154"
+            }
+        ],
+        "axis": {
+            "y": {
+                "label": "Adoption"
+            }
+        },
+        "stages": [
+            "Release",
+            "Growth",
+            "Maturity",
+            "Challenged",
+            "Superseded"
+        ],
+        "size": []
+    },
+    "events": [
+        {
+            "date": null,
+            "source": null,
+            "title": null
+        }
+    ]
+}

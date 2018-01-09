@@ -1,0 +1,69 @@
+{
+    "topic": {
+        "attributes": {
+            "title": "Test tools",
+            "description": null,
+            "snapshot_date": "2017-02-17",
+            "permanent_id": "test-tools",
+            "chart_type": "bell"
+        },
+        "items": [
+            {
+                "title": "Selenium",
+                "description": "",
+                "axis": {
+                    "x": 0.666,
+                    "y": null
+                },
+                "id": "146"
+            },
+            {
+                "title": "Mocha",
+                "description": "",
+                "axis": {
+                    "x": 0.384,
+                    "y": null
+                },
+                "id": "145"
+            },
+            {
+                "title": "CI Travis",
+                "description": "",
+                "axis": {
+                    "x": 0.328,
+                    "y": null
+                },
+                "id": "144"
+            },
+            {
+                "title": "Browserstack.com",
+                "description": "",
+                "axis": {
+                    "x": 0.588,
+                    "y": null
+                },
+                "id": "143"
+            }
+        ],
+        "axis": {
+            "y": {
+                "label": "Adoption"
+            }
+        },
+        "stages": [
+            "Release",
+            "Growth",
+            "Maturity",
+            "Challenged",
+            "Superseded"
+        ],
+        "size": []
+    },
+    "events": [
+        {
+            "date": null,
+            "source": null,
+            "title": null
+        }
+    ]
+}

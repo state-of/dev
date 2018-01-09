@@ -1,0 +1,96 @@
+{
+    "topic": {
+        "attributes": {
+            "title": "Text Editors",
+            "description": null,
+            "snapshot_date": "2017-02-16",
+            "permanent_id": "text-editors",
+            "chart_type": "bell"
+        },
+        "items": [
+            {
+                "title": "Vim",
+                "description": "Vim is the go-to command line text editor on Linux with a rich feature set.",
+                "axis": {
+                    "x": 0.596,
+                    "y": null
+                },
+                "id": "151"
+            },
+            {
+                "title": "Eclipse",
+                "description": "Eclipse is an open source (predominanty) Java environment. Android development was tied to Eclipse, untill Google launched Google Studio.\n\nhttps:\/\/eclipse.org\/",
+                "axis": {
+                    "x": 0.736,
+                    "y": null
+                },
+                "id": "148"
+            },
+            {
+                "title": "Xcode",
+                "description": "Xcode by Apple is mandatory for iOS development.\n\nhttps:\/\/developer.apple.com\/xcode\/",
+                "axis": {
+                    "x": 0.758,
+                    "y": null
+                },
+                "id": "147"
+            },
+            {
+                "title": "Emacs",
+                "description": "Developed in the 80', Emacs is still the go-to code editor for a large group of developers. It has extensive ways to personalise the editor.\n\nhttps:\/\/www.gnu.org\/software\/emacs\/",
+                "axis": {
+                    "x": 0.8,
+                    "y": null
+                },
+                "id": "76"
+            },
+            {
+                "title": "Sublime",
+                "description": "Sublime is a favorite for developers due to speed and stability, but also a large repository of plugins.\n\nhttps:\/\/www.sublimetext.com\/",
+                "axis": {
+                    "x": 0.531667,
+                    "y": null
+                },
+                "id": "25"
+            },
+            {
+                "title": "Visual Studio",
+                "description": "Visual Studio Studio by Microsoft has made major leaps recently: it is free with support for macOS, linux and (of course) windows and a wide variety of [languages](https:\/\/code.visualstudio.com\/?wt.mc_id=DX_841432). IntelliSense (function autocomplete) is one of its key features.\n\nhttps:\/\/www.visualstudio.com\/",
+                "axis": {
+                    "x": 0.235138,
+                    "y": null
+                },
+                "id": "10"
+            },
+            {
+                "title": "Atom",
+                "description": "Atom by Github is powered by Javascript and quickly gained traction for its ease of use, and wide plugin support.\n\nhttps:\/\/atom.io\/",
+                "axis": {
+                    "x": 0.404,
+                    "y": null
+                },
+                "id": "9"
+            }
+        ],
+        "axis": {
+            "y": {
+                "label": "Adoption"
+            }
+        },
+        "stages": [
+            "Release",
+            "Growth",
+            "Maturity",
+            "Challenged",
+            "Superseded"
+        ],
+        "size": []
+    },
+    "events": [
+        {
+            "date": null,
+            "source": null,
+            "title": null
+        }
+    ]
+}

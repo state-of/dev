@@ -1,0 +1,96 @@
+{
+    "topic": {
+        "attributes": {
+            "title": "CSS ",
+            "description": null,
+            "snapshot_date": "2017-02-16",
+            "permanent_id": "css",
+            "chart_type": "bell"
+        },
+        "items": [
+            {
+                "title": "cssnext",
+                "description": "Edge CSS syntax made available for browsers now.\n\nhttp:\/\/cssnext.io\/",
+                "axis": {
+                    "x": 0.162,
+                    "y": null
+                },
+                "id": "172"
+            },
+            {
+                "title": "CSS Modules",
+                "description": "https:\/\/github.com\/css-modules\/css-modules",
+                "axis": {
+                    "x": 0.11,
+                    "y": null
+                },
+                "id": "138"
+            },
+            {
+                "title": "Flexbox",
+                "description": "Flexbox is the modern improved way to layout visual elements.\n\nhttps:\/\/developer.mozilla.org\/en-US\/docs\/Web\/CSS\/CSS_Flexible_Box_Layout\/Using_CSS_flexible_boxes",
+                "axis": {
+                    "x": 0.414,
+                    "y": null
+                },
+                "id": "129"
+            },
+            {
+                "title": "Web Components",
+                "description": "Web Components allow for modular CSS using import() and the Shadow DOM which solve complex nested selectors that could overwrite each other.",
+                "axis": {
+                    "x": 0.206,
+                    "y": null
+                },
+                "id": "61"
+            },
+            {
+                "title": "Less",
+                "description": "Less adds advanced features to CSS, including a nested CSS syntax, parameters and mixins. Less is a pre-processor, hence needs to be compiled to CSS. \n\nhttp:\/\/lesscss.org\/",
+                "axis": {
+                    "x": 0.482,
+                    "y": null
+                },
+                "id": "60"
+            },
+            {
+                "title": "SASS",
+                "description": "SASS adds advanced features to CSS, including a nested CSS syntax, parameters and mixins. Less is a pre-processor, hence needs to be compiled to CSS. \n\nhttp:\/\/sass-lang.com\/",
+                "axis": {
+                    "x": 0.566,
+                    "y": null
+                },
+                "id": "59"
+            },
+            {
+                "title": "Plain",
+                "description": "Writing plain CSS is almost an anti-pattern for bigger projects because its almost unmaintainable. \n\nIt might be still a good option for a small project that don't want to employ build tools.",
+                "axis": {
+                    "x": 0.808,
+                    "y": null
+                },
+                "id": "58"
+            }
+        ],
+        "axis": {
+            "y": {
+                "label": "Adoption"
+            }
+        },
+        "stages": [
+            "Release",
+            "Growth",
+            "Maturity",
+            "Challenged",
+            "Superseded"
+        ],
+        "size": []
+    },
+    "events": [
+        {
+            "date": null,
+            "source": null,
+            "title": null
+        }
+    ]
+}
