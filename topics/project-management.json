@@ -9,7 +9,20 @@
         },
         "items": [],
         "axis": [],
-        "stages": [],
+        "states": [
+            {
+                "width": 0.333,
+                "label": "Beginner"
+            },
+            {
+                "width": 0.333,
+                "label": "Professional"
+            },
+            {
+                "width": 0.333,
+                "label": "Expert"
+            }
+        ],
         "size": []
     },
     "events": [

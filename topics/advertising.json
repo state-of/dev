@@ -68,12 +68,27 @@
                 "label": "Expectation"
             }
         },
-        "stages": [
-            "Innovation trigger",
-            "Peak expectation",
-            "Disillusionment",
-            "Enlightenment",
-            "Productivity plateau"
+        "states": [
+            {
+                "width": 0.15,
+                "label": "Innovation trigger"
+            },
+            {
+                "width": 0.13,
+                "label": "Peak expectation"
+            },
+            {
+                "width": 0.2,
+                "label": "Disillusionment"
+            },
+            {
+                "width": 0.22,
+                "label": "Enlightenment"
+            },
+            {
+                "width": 0.3,
+                "label": "Productivity plateau"
+            }
         ],
         "size": []
     },

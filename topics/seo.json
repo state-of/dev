@@ -86,12 +86,27 @@
                 "label": "Adoption"
             }
         },
-        "stages": [
-            "Release",
-            "Growth",
-            "Maturity",
-            "Challenged",
-            "Superseded"
+        "states": [
+            {
+                "width": 0.2,
+                "label": "Release"
+            },
+            {
+                "width": 0.2,
+                "label": "Growth"
+            },
+            {
+                "width": 0.2,
+                "label": "Maturity"
+            },
+            {
+                "width": 0.2,
+                "label": "Challenged"
+            },
+            {
+                "width": 0.2,
+                "label": "Superseded"
+            }
         ],
         "size": []
     },
