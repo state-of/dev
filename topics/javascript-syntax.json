@@ -19,7 +19,7 @@
             },
             {
                 "title": "Vanilla",
-                "description": "Based on the ECMAscript specification *vanilla* or plain Javascript is making leaps with ES5 and ES6 that support advanced syntax and features.",
+                "description": "Based on the ECMAscript specification *vanilla* or plain Javascript is making leaps with ES5 and ES2015 that support advanced syntax and features.",
                 "axis": {
                     "x": 0.634,
                     "y": null
@@ -54,8 +54,8 @@
                 "id": "24"
             },
             {
-                "title": "ES6",
-                "description": "ES6 (ECMAScript 2015) is a highly anticipated successor to ES5 ('09) that implements features which makes Javascript a much better development language.\n\n### State events\nEdge browsers have almost fully implemented the spec:\n* https:\/\/blog.mozilla.org\/javascript\/2017\/02\/22\/ecmascript-2016plus-in-firefox\/\n* https:\/\/blog.chromium.org\/2016\/04\/es6-es7-in-browser.html\n",
+                "title": "ES2015",
+                "description": "ES2015 is a highly anticipated successor to ES5 (2009) that implements features which makes Javascript a much better development language.\n\n### State events\nEdge browsers have almost fully implemented the spec:\n* https:\/\/blog.mozilla.org\/javascript\/2017\/02\/22\/ecmascript-2016plus-in-firefox\/\n* https:\/\/blog.chromium.org\/2016\/04\/es6-es7-in-browser.html\n",
                 "axis": {
                     "x": 0.336,
                     "y": null
@@ -63,8 +63,8 @@
                 "id": "23"
             },
             {
-                "title": "ES7 ",
-                "description": "ES7 (ECMA-262) brings more advanced features to Javascript, but the language specification is in draft.\n\n### State events\nEdge browsers are working on implementing the spec:\n* https:\/\/github.com\/tc39\/ecma262\n* https:\/\/blog.mozilla.org\/javascript\/2017\/02\/22\/ecmascript-2016plus-in-firefox\/\n* https:\/\/blog.chromium.org\/2016\/04\/es6-es7-in-browser.html",
+                "title": "ES2016",
+                "description": "ES2016 brings more advanced features to Javascript, but the language specification is in draft.\n\n### State events\nEdge browsers are working on implementing the spec:\n* https:\/\/github.com\/tc39\/ecma262\n* https:\/\/blog.mozilla.org\/javascript\/2017\/02\/22\/ecmascript-2016plus-in-firefox\/\n* https:\/\/blog.chromium.org\/2016\/04\/es6-es7-in-browser.html",
                 "axis": {
                     "x": 0.2,
                     "y": null
