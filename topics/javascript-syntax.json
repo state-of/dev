@@ -55,21 +55,30 @@
             },
             {
                 "title": "ES2015",
-                "description": "ES2015 is a highly anticipated successor to ES5 (2009) that implements features which makes Javascript a much better development language.\n\n### State events\nEdge browsers have almost fully implemented the spec:\n* https:\/\/blog.mozilla.org\/javascript\/2017\/02\/22\/ecmascript-2016plus-in-firefox\/\n* https:\/\/blog.chromium.org\/2016\/04\/es6-es7-in-browser.html\n",
+                "description": "ES2015 is a highly anticipated successor to ES5 (2009) that implements features which makes Javascript a more advanced language.\n\nEdge browsers have (almost) fully implemented the spec:\n* https:\/\/blog.mozilla.org\/javascript\/2017\/02\/22\/ecmascript-2016plus-in-firefox\/\n* https:\/\/blog.chromium.org\/2016\/04\/es6-es7-in-browser.html\n",
                 "axis": {
-                    "x": 0.336,
+                    "x": 0.46,
                     "y": null
                 },
                 "id": "23"
             },
             {
                 "title": "ES2016",
-                "description": "ES2016 brings more advanced features to Javascript, but the language specification is in draft.\n\n### State events\nEdge browsers are working on implementing the spec:\n* https:\/\/github.com\/tc39\/ecma262\n* https:\/\/blog.mozilla.org\/javascript\/2017\/02\/22\/ecmascript-2016plus-in-firefox\/\n* https:\/\/blog.chromium.org\/2016\/04\/es6-es7-in-browser.html",
+                "description": "ES2016 brings only two new features to Javascript: Array.prototype.includes and Exponentiation Operator. The small change is intented.\n* https://medium.freecodecamp.org/ecmascript-2016-es7-features-86903c5cab70",
                 "axis": {
-                    "x": 0.2,
+                    "x": 0.26,
                     "y": null
                 },
                 "id": "22"
+            },
+            {
+                "title": "ES2018 ",
+                "description": "As determined by TC39, ES2018 introduces async iterators, object spread operator, Promise.prototype.finally and more.",
+                "axis": {
+                    "x": 0.1,
+                    "y": null
+                },
+                "id": "es2018"
             }
         ],
         "axis": {
