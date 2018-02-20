@@ -10,7 +10,7 @@
         "items": [
             {
                 "title": "Orchestration",
-                "description": "The management of scaling your cloud application.",
+                "description": "The management of scaling your cloud application.\n\n* https://kubernetes.io/",
                 "axis": {
                     "x": 0.198,
                     "y": null
@@ -19,7 +19,7 @@
             },
             {
                 "title": "Containers",
-                "description": "Your application envirionment run anywhere in a container.",
+                "description": "Your application envirionment run anywhere in a container.\n\n* https://www.docker.com/",
                 "axis": {
                     "x": 0.592,
                     "y": null
@@ -28,7 +28,7 @@
             },
             {
                 "title": "CDN",
-                "description": "Host your assets on a content delivery network (CDN) near the customer.",
+                "description": "Host your assets on a content delivery network (CDN) near the customer.\n\n* https://www.fastly.com/",
                 "axis": {
                     "x": 0.512,
                     "y": null
@@ -37,7 +37,7 @@
             },
             {
                 "title": "Serverless compute",
-                "description": "Cloud computing where a only an application script is executed within the cloud without any specific (permanent) server envirionment.",
+                "description": "Cloud computing where a only an application script is executed within the cloud without any specific (permanent) server envirionment.\n\n* https://aws.amazon.com/serverless/",
                 "axis": {
                     "x": 0.282,
                     "y": null

@@ -10,7 +10,7 @@
         "items": [
             {
                 "title": "#F",
-                "description": "F Sharp (#F) is an open source cross-platform language, lead by Microsoft and part of the .NET languages. \n\n### Resources\n* https:\/\/en.wikipedia.org\/wiki\/F_Sharp_(programming_language)\n* https:\/\/docs.microsoft.com\/en-us\/dotnet\/articles\/fsharp\/tour\n* http:\/\/www.tryfsharp.org\/Create.",
+                "description": "F Sharp is an open source cross-platform language, lead by Microsoft and part of the .NET languages. \n\n### Resources\n* https:\/\/en.wikipedia.org\/wiki\/F_Sharp_(programming_language)\n* https:\/\/docs.microsoft.com\/en-us\/dotnet\/articles\/fsharp\/tour\n* http:\/\/www.tryfsharp.org\/Create.",
                 "axis": {
                     "x": 0.11,
                     "y": null
@@ -39,7 +39,7 @@
                 "title": "Objective-C",
                 "description": "Objective-C has a long past. It's still in the picture thanks to iOS having objective-c as the core language for its OS.\n\nhttps:\/\/developer.apple.com\/library\/content\/documentation\/Cocoa\/Conceptual\/ProgrammingWithObjectiveC\/Introduction\/Introduction.html#\/\/apple_ref\/doc\/uid\/TP40011210",
                 "axis": {
-                    "x": 0.698,
+                    "x": 0.8,
                     "y": null
                 },
                 "id": "152"
