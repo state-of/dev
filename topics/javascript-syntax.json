@@ -1,7 +1,7 @@
 {
     "topic": {
         "attributes": {
-            "title": "Javascript syntax",
+            "title": "Javascript Syntax",
             "description": null,
             "snapshot_date": "2017-02-16",
             "permanent_id": "javascript-syntax",
@@ -55,7 +55,7 @@
             },
             {
                 "title": "ES2015",
-                "description": "ES2015 is a highly anticipated successor to ES5 (2009) that implements features which makes Javascript a more advanced language.\n\nEdge browsers have (almost) fully implemented the spec:\n* https:\/\/blog.mozilla.org\/javascript\/2017\/02\/22\/ecmascript-2016plus-in-firefox\/\n* https:\/\/blog.chromium.org\/2016\/04\/es6-es7-in-browser.html\n",
+                "description": "ES2015 is a highly anticipated successor to ES5 (2009) that implements features which makes Javascript a more advanced language.\n\n* https:\/\/blog.mozilla.org\/javascript\/2017\/02\/22\/ecmascript-2016plus-in-firefox\/\n* https:\/\/blog.chromium.org\/2016\/04\/es6-es7-in-browser.html\n",
                 "axis": {
                     "x": 0.46,
                     "y": null

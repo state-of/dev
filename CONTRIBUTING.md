@@ -16,34 +16,37 @@ We are open to:
 ## Ideas
 [WIP] ideas of topics and categories.
 
+## Beginners
+## Beginners
+If you have little to no experience with github or git, contributing might look a bit daunting. Luckily you can make changes completely from the browser. This introduction [guide](https://guides.github.com/activities/forking/) will help you get started with [forking](https://guides.github.com/activities/forking/), [edittng](https://guides.github.com/activities/hello-world/#commit) and creating a [pull request](https://guides.github.com/activities/hello-world/#merge).
+
+### Chart
+To reposition items in the chart, click the menu dots above the chart. Select `Edit Mode`. Drag the dots to a new position. Open the browser developer console, and copy the data and replace items[{...}] with this data.
+
 ## Data structure
-The structure is setup as: categories represent a broader subject, referencing to multiple relevant topics. Each topic contains specific details of a topic. The state data represents a chart that helps to understand that topic.
+The structure is setup as following: categories represent a broader subject, referencing to multiple relevant topics. Each topic contains data to visualize the current state of that topic.
 
 A good example of a topic is: [topics/programming-language.json](topics/programming-language.json). That topic is referenced by the category [categories/backend.json](categories/backend.json).
 
 It's best to just browse a bit through the repository to get a quick understanding.
 
 ## Data Format
-Look at [topics/format-template.json](topics/format-template.json) for a commented template of the data format.
-
-JSON is hard to format by hand, especially combining with markdown. I'm working on an basic editor, that outputs the correct format.*
+JSON is hard to format by hand, especially combining with markdown. The next version will move to a javascript config syntax, which should make editing easier.
 
 ### Chart types
-Initialy build around the hype cycle curve, it now supports a bell and bubble chart type as well. Bubble should become the default:
-![Example](https://cdn-images-1.medium.com/max/800/1*dn274lyUoylpBUFJSSDldg.gif")
+Initially build around the hype cycle curve, it now supports a bell and bubble chart type as well. Bubble should become the default:
+![Example](https://cdn-images-1.medium.com/max/800/1*dn274lyUoylpBUFJSSDldg.gif)
 
-1. bubble [x,y]
-2. bell [states of adoption]
-3. hype [phases in hype cycle]
+1. 'bubble' plots a X by Y graph without a curve
+2. 'bell' contains several states and each item sits on a bell curve
+3. 'hype' follow the hype cycle curve for each hype cycle phase.
 
 ## Attributes
 Attributes of the chart.
 * title - A reference title
 * subtitle - A promotional title. Usually in the form of a question of which the chart is the answer.
 * description - A long form description of what the chart answers. Markdown only.
-* chart_type - Type of chart to render, either bubble, market or hype.
-* category - To which category this belongs [array].
-* snapshot_date - Date of the snapshot (Y-m-d).
+* chart_type - Type of chart to render, either 'bubble', 'market' or 'hype'.
 * permanent_id = A permanent slug ID.
 
 ### Items
@@ -77,7 +80,9 @@ Determines the size of the bubble.
 * value
 
 ### Positioning item
-[0-100, 0,100]
+The position is determined by:
+- 'bubble' a float number [0.0 - 1.0] for X and Y
+- 'hype' 'bell' a float number [0.0 - 1.0] for X
 
 ## Events [WIP]
 Events that impact the items in the charts.

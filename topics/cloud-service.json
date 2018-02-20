@@ -1,7 +1,7 @@
 {
     "topic": {
         "attributes": {
-            "title": "Cloud service",
+            "title": "Cloud Services",
             "description": null,
             "snapshot_date": "2017-02-16",
             "permanent_id": "cloud-service",
@@ -10,7 +10,7 @@
         "items": [
             {
                 "title": "Orchestration",
-                "description": "",
+                "description": "The management of scaling your cloud application.",
                 "axis": {
                     "x": 0.198,
                     "y": null
@@ -19,7 +19,7 @@
             },
             {
                 "title": "Containers",
-                "description": "",
+                "description": "Your application envirionment run anywhere in a container.",
                 "axis": {
                     "x": 0.592,
                     "y": null
@@ -28,7 +28,7 @@
             },
             {
                 "title": "CDN",
-                "description": "",
+                "description": "Host your assets on a content delivery network (CDN) near the customer.",
                 "axis": {
                     "x": 0.512,
                     "y": null
@@ -37,7 +37,7 @@
             },
             {
                 "title": "Serverless compute",
-                "description": "",
+                "description": "Cloud computing where a only an application script is executed within the cloud without any specific (permanent) server envirionment.",
                 "axis": {
                     "x": 0.282,
                     "y": null

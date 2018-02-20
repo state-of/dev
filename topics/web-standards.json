@@ -1,7 +1,7 @@
 {
     "topic": {
         "attributes": {
-            "title": "Web standards",
+            "title": "Web Standards",
             "description": null,
             "snapshot_date": "2017-02-16",
             "permanent_id": "web-standards",
@@ -19,9 +19,9 @@
             },
             {
                 "title": "PWA",
-                "description": "Progressive Web Apps brings native apps features to the web. Leveraging Service Workers, offline modus, a manifest and (background) push notifications are made available.\n\n### Resources\n* https:\/\/developers.google.com\/web\/progressive-web-apps\/\n* http:\/\/preview.pwabuilder.com\/",
+                "description": "Progressive Web Apps brings native apps features to the web. Leveraging Service Workers, offline modus, a manifest and (background) push notifications are made available.\n\nRecently also announced support for Safari.\n\n### Resources\n* https:\/\/developers.google.com\/web\/progressive-web-apps\/\n* http:\/\/preview.pwabuilder.com\/",
                 "axis": {
-                    "x": 0.328,
+                    "x": 0.428,
                     "y": null
                 },
                 "id": "134"
@@ -79,6 +79,15 @@
                     "y": null
                 },
                 "id": "11"
+            },
+            {
+                "title": "CSP",
+                "description": "Content Security Policy (CSP) \n\nhttps://developer.mozilla.org/en-US/docs/Web/HTTP/CSP",
+                "axis": {
+                    "x": 0.12,
+                    "y": null
+                },
+                "id": "11"
             }
         ],
         "axis": {
@@ -89,23 +98,28 @@
         "states": [
             {
                 "width": 0.15,
-                "label": "Innovation trigger"
+                "label": "Innovation trigger",
+                "description": "A potential technology breakthrough kicks things off."
             },
             {
                 "width": 0.13,
-                "label": "Peak expectation"
+                "label": "Peak expectation",
+                "description": "Early publicity produces a number of success stories — often accompanied by scores of failures."
             },
             {
                 "width": 0.2,
-                "label": "Disillusionment"
+                "label": "Disillusionment",
+                "description": "Interest wanes as experiments and implementations fail to deliver. Producers of the technology shake out or fail."
             },
             {
                 "width": 0.22,
-                "label": "Enlightenment"
+                "label": "Enlightenment",
+                "description": "More instances of how the technology can benefit the market start to crystallize."
             },
             {
                 "width": 0.3,
-                "label": "Productivity plateau"
+                "label": "Productivity plateau",
+                "description": "Mainstream adoption starts to take off. The technology's broad market applicability and relevance are clearly paying off."
             }
         ],
         "size": []

@@ -64,12 +64,21 @@
             },
             {
                 "title": "Plain",
-                "description": "Writing plain CSS is almost an anti-pattern for bigger projects because its almost unmaintainable. \n\nIt might be still a good option for a small project that don't want to employ build tools.",
+                "description": "Writing plain CSS is almost an anti-pattern for bigger projects because its hard to maintain. \n\nIt might be still a good option for a small project that don't want to employ build tools.",
                 "axis": {
                     "x": 0.808,
                     "y": null
                 },
                 "id": "58"
+            },
+            {
+                "title": "Grid",
+                "description": "Next to Flexbox, a CSS grid support is covered by the major browsers, and brings several advantages for positioning.\n\nhttps://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout",
+                "axis": {
+                    "x": 0.22,
+                    "y": null
+                },
+                "id": "grid"
             }
         ],
         "axis": {

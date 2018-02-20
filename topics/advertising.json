@@ -55,12 +55,19 @@
             },
             {
                 "title": "Video ads",
-                "description": "",
                 "axis": {
                     "x": 0.764,
                     "y": null
                 },
                 "id": "166"
+            },
+            {
+                "title": "Ad Blocking",
+                "axis": {
+                    "x": 0.6,
+                    "y": null
+                },
+                "id": "adblocking"
             }
         ],
         "axis": {
@@ -71,23 +78,28 @@
         "states": [
             {
                 "width": 0.15,
-                "label": "Innovation trigger"
+                "label": "Innovation trigger",
+                "description": "A potential technology breakthrough kicks things off."
             },
             {
                 "width": 0.13,
-                "label": "Peak expectation"
+                "label": "Peak expectation",
+                "description": "Early publicity produces a number of success stories — often accompanied by scores of failures."
             },
             {
                 "width": 0.2,
-                "label": "Disillusionment"
+                "label": "Disillusionment",
+                "description": "Interest wanes as experiments and implementations fail to deliver. Producers of the technology shake out or fail."
             },
             {
                 "width": 0.22,
-                "label": "Enlightenment"
+                "label": "Enlightenment",
+                "description": "More instances of how the technology can benefit the market start to crystallize."
             },
             {
                 "width": 0.3,
-                "label": "Productivity plateau"
+                "label": "Productivity plateau",
+                "description": "Mainstream adoption starts to take off. The technology's broad market applicability and relevance are clearly paying off."
             }
         ],
         "size": []

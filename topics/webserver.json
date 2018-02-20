@@ -1,7 +1,7 @@
 {
     "topic": {
         "attributes": {
-            "title": "Webserver",
+            "title": "Webservers",
             "description": null,
             "snapshot_date": "2017-02-16",
             "permanent_id": "webserver",
@@ -10,7 +10,7 @@
         "items": [
             {
                 "title": "Hapi",
-                "description": "",
+                "description": "https://hapijs.com/",
                 "axis": {
                     "x": 0.206,
                     "y": null
@@ -19,7 +19,7 @@
             },
             {
                 "title": "Meteor",
-                "description": "",
+                "description": "https://www.meteor.com/",
                 "axis": {
                     "x": 0.242958,
                     "y": null
@@ -28,7 +28,7 @@
             },
             {
                 "title": "Express",
-                "description": "",
+                "description": "https://expressjs.com/",
                 "axis": {
                     "x": 0.284507,
                     "y": null
@@ -37,7 +37,7 @@
             },
             {
                 "title": "Nginx",
-                "description": "",
+                "description": "https://nginx.org",
                 "axis": {
                     "x": 0.611972,
                     "y": null
@@ -46,7 +46,7 @@
             },
             {
                 "title": "Node.js",
-                "description": "",
+                "description": "https://nodejs.org/",
                 "axis": {
                     "x": 0.397183,
                     "y": null
@@ -55,7 +55,7 @@
             },
             {
                 "title": "Apache",
-                "description": "",
+                "description": "https://www.apache.org/",
                 "axis": {
                     "x": 0.697183,
                     "y": null

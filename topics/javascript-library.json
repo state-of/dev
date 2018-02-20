@@ -1,7 +1,7 @@
 {
     "topic": {
         "attributes": {
-            "title": "Javascript library",
+            "title": "Javascript Libraries",
             "description": null,
             "snapshot_date": "2017-02-16",
             "permanent_id": "javascript-library",
@@ -10,7 +10,7 @@
         "items": [
             {
                 "title": "Vanilla",
-                "description": "The latest ECMAScript standard development gives ES2015 (and beyond) many functions Javascript was previously missing. Javascript development doesn't demand a library anymore, with plain or vanilla covering the basics and a compiler (Babel) covering cross-browser support.",
+                "description": "With ES2015 (and beyond) implemented in major browsers, developing in plain vanilla javascript (without any libraries) became much more sensible.",
                 "axis": {
                     "x": 0.47401,
                     "y": null

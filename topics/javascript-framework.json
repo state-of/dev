@@ -1,7 +1,7 @@
 {
     "topic": {
         "attributes": {
-            "title": "Javascript framework",
+            "title": "Javascript Frameworks",
             "description": null,
             "snapshot_date": "2017-02-16",
             "permanent_id": "javascript-framework",
@@ -19,7 +19,7 @@
             },
             {
                 "title": "Aurelia",
-                "description": "See [Aurelia](http:\/\/aurelia.io\/).",
+                "description": "[Aurelia](http:\/\/aurelia.io\/).",
                 "axis": {
                     "x": 0.196,
                     "y": null
@@ -28,7 +28,7 @@
             },
             {
                 "title": "ember.js",
-                "description": "See [Ember.js](http:\/\/emberjs.com\/).",
+                "description": "[Ember.js](http:\/\/emberjs.com\/).",
                 "axis": {
                     "x": 0.788,
                     "y": null
@@ -57,7 +57,7 @@
                 "title": "Vue.js",
                 "description": "A strong competitor to React is [Vue.js](https:\/\/vuejs.org\/). Both demand the latest javascript spec for development and all its advantages. Vue promotes itself to test better in [performance](https:\/\/vuejs.org\/v2\/guide\/comparison.html).",
                 "axis": {
-                    "x": 0.262,
+                    "x": 0.4,
                     "y": null
                 },
                 "id": "2"
@@ -66,7 +66,7 @@
                 "title": "React",
                 "description": "Taking the lead in modern modular frameworks [React](https:\/\/facebook.github.io\/react\/) has created a very strong following, and an innovative standard for (frontend) web development. ",
                 "axis": {
-                    "x": 0.372,
+                    "x": 0.5,
                     "y": null
                 },
                 "id": "1"

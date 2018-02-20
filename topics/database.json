@@ -1,7 +1,7 @@
 {
     "topic": {
         "attributes": {
-            "title": "Database",
+            "title": "Databases",
             "description": null,
             "snapshot_date": "2017-02-16",
             "permanent_id": "database",
@@ -12,7 +12,7 @@
                 "title": "GraphQL",
                 "description": "http:\/\/graphql.org\/learn\/",
                 "axis": {
-                    "x": 0.274,
+                    "x": 0.37,
                     "y": null
                 },
                 "id": "131"

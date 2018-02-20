@@ -1,7 +1,7 @@
 {
     "topic": {
         "attributes": {
-            "title": "Local development",
+            "title": "Local Development",
             "description": null,
             "snapshot_date": "2017-02-16",
             "permanent_id": "local-development",
@@ -45,8 +45,8 @@
                 "id": "107"
             },
             {
-                "title": "Hot Reload",
-                "description": "",
+                "title": "Hot Reload (HMR)",
+                "description": "https://webpack.js.org/concepts/hot-module-replacement/",
                 "axis": {
                     "x": 0.28,
                     "y": null
@@ -55,12 +55,21 @@
             },
             {
                 "title": "Virtual Machine",
-                "description": "",
+                "description": "An image of a server environment, which can be served locally by either Virtualbox or Docker allows for a consistent environment between the production and the development environment.\n\n* https://www.docker.com/\n* https://www.virtualbox.org/",
                 "axis": {
                     "x": 0.576,
                     "y": null
                 },
                 "id": "105"
+            },
+            {
+                "title": "zero-config",
+                "description": "Zero-config refers to tools which by out-of-the-box take on optimal assumptions and hence don't need to be setup.\n\n* https://parceljs.org/\n* https://github.com/webpack-preset/webpack-preset",
+                "axis": {
+                    "x": 0.1,
+                    "y": null
+                },
+                "id": "zero"
             }
         ],
         "axis": {

@@ -66,7 +66,7 @@
                 "title": "Incoming links",
                 "description": "Incoming links are (still) at the core of Google's ranking algoritm.",
                 "axis": {
-                    "x": 0.512397,
+                    "x": 0.51,
                     "y": null
                 },
                 "id": "41"
@@ -79,6 +79,33 @@
                     "y": null
                 },
                 "id": "40"
+            },
+            {
+                "title": "https",
+                "description": "https://blog.chromium.org/2018/02/a-secure-web-is-here-to-stay.html?m=1",
+                "axis": {
+                    "x": 0.44,
+                    "y": null
+                },
+                "id": "https"
+            },
+            {
+                "title": "CDN",
+                "description": "Given the ranking factor of speed. Serving assets from a CDN near a consumer becomes standard.",
+                "axis": {
+                    "x": 0.34,
+                    "y": null
+                },
+                "id": "cdn"
+            },
+            {
+                "title": "Load speed",
+                "description": "Starting in July 2018, Google will use mobile page speed as a ranking in their mobile search results.\n\n* https://webmasters.googleblog.com/2018/01/using-page-speed-in-mobile-search.html\n* https://developers.google.com/speed/pagespeed/insights/",
+                "axis": {
+                    "x": 0.51,
+                    "y": null
+                },
+                "id": "loadspeed"
             }
         ],
         "axis": {
