@@ -9,15 +9,6 @@
         },
         "items": [
             {
-                "title": "GraphQL",
-                "description": "http:\/\/graphql.org\/learn\/",
-                "axis": {
-                    "x": 0.37,
-                    "y": null
-                },
-                "id": "131"
-            },
-            {
                 "title": "PostgreSQL",
                 "description": "https:\/\/www.postgresql.org\/",
                 "axis": {
