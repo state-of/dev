@@ -17,8 +17,7 @@
             "design",
             "build-tools",
             "test-tools",
-            "state-management",
-            "webdev"
+            "state-management"
         ]
     }
 }

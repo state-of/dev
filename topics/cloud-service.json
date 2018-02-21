@@ -1,19 +1,19 @@
 {
     "topic": {
         "attributes": {
-            "title": "Cloud Services",
+            "title": "Cloud",
             "description": null,
             "snapshot_date": "2017-02-16",
             "permanent_id": "cloud-service",
-            "chart_type": "bell"
+            "chart_type": "market"
         },
         "items": [
             {
                 "title": "Orchestration",
                 "description": "The management of scaling your cloud application.\n\n* https://kubernetes.io/",
                 "axis": {
-                    "x": 0.198,
-                    "y": null
+                    "x": 0.189288330078125,
+                    "y": 0.36143034322445833
                 },
                 "id": "119"
             },
@@ -21,64 +21,32 @@
                 "title": "Containers",
                 "description": "Your application envirionment run anywhere in a container.\n\n* https://www.docker.com/",
                 "axis": {
-                    "x": 0.592,
-                    "y": null
+                    "x": 0.28099780792885637,
+                    "y": 0.4572157634837696
                 },
                 "id": "118"
-            },
-            {
-                "title": "CDN",
-                "description": "Host your assets on a content delivery network (CDN) near the customer.\n\n* https://www.fastly.com/",
-                "axis": {
-                    "x": 0.512,
-                    "y": null
-                },
-                "id": "117"
             },
             {
                 "title": "Serverless compute",
                 "description": "Cloud computing where a only an application script is executed within the cloud without any specific (permanent) server envirionment.\n\n* https://aws.amazon.com/serverless/",
                 "axis": {
-                    "x": 0.282,
-                    "y": null
+                    "x": 0.09757886846014793,
+                    "y": 0.2528734846184042
                 },
                 "id": "116"
             }
         ],
         "axis": {
             "y": {
-                "label": "Adoption"
+                "label": "Adoption",
+                "more": "Mainstream",
+                "less": "Niche"
+            },
+            "x": {
+                "label": "Maturity",
+                "more": "Established",
+                "less": "Early"
             }
-        },
-        "states": [
-            {
-                "width": 0.2,
-                "label": "Release"
-            },
-            {
-                "width": 0.2,
-                "label": "Growth"
-            },
-            {
-                "width": 0.2,
-                "label": "Maturity"
-            },
-            {
-                "width": 0.2,
-                "label": "Challenged"
-            },
-            {
-                "width": 0.2,
-                "label": "Superseded"
-            }
-        ],
-        "size": []
-    },
-    "events": [
-        {
-            "date": null,
-            "source": null,
-            "title": null
         }
-    ]
+    }
 }

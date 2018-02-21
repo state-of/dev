@@ -5,74 +5,31 @@
             "description": null,
             "snapshot_date": "2017-02-17",
             "permanent_id": "test-tools",
-            "chart_type": "bell"
+            "chart_type": "market"
         },
         "items": [
             {
-                "title": "Selenium",
-                "description": "",
+                "title": "Contribute to this chart",
+                "description": "Go and [edit](https://github.com/state-of/dev/blob/master/topics/test-tools.json) the data of this chart.",
                 "axis": {
-                    "x": 0.666,
-                    "y": null
+                    "x": 0.5,
+                    "y": 0.5
                 },
-                "id": "146"
-            },
-            {
-                "title": "Mocha",
-                "description": "",
-                "axis": {
-                    "x": 0.384,
-                    "y": null
-                },
-                "id": "145"
-            },
-            {
-                "title": "CI Travis",
-                "description": "",
-                "axis": {
-                    "x": 0.328,
-                    "y": null
-                },
-                "id": "144"
-            },
-            {
-                "title": "Browserstack.com",
-                "description": "",
-                "axis": {
-                    "x": 0.588,
-                    "y": null
-                },
-                "id": "143"
+                "id": "contribute"
             }
         ],
         "axis": {
             "y": {
-                "label": "Adoption"
+                "label": "Adoption",
+                "more": "Mainstream",
+                "less": "Niche"
+            },
+            "x": {
+                "label": "Maturity",
+                "more": "Established",
+                "less": "Early"
             }
-        },
-        "states": [
-            {
-                "width": 0.2,
-                "label": "Release"
-            },
-            {
-                "width": 0.2,
-                "label": "Growth"
-            },
-            {
-                "width": 0.2,
-                "label": "Maturity"
-            },
-            {
-                "width": 0.2,
-                "label": "Challenged"
-            },
-            {
-                "width": 0.2,
-                "label": "Superseded"
-            }
-        ],
-        "size": []
+        }
     },
     "events": [
         {

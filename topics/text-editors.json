@@ -5,69 +5,69 @@
             "description": null,
             "snapshot_date": "2017-02-16",
             "permanent_id": "text-editors",
-            "chart_type": "bell"
+            "chart_type": "bubble"
         },
         "items": [
             {
                 "title": "Vim",
                 "description": "Vim is the go-to command line text editor on Linux with a rich feature set.",
                 "axis": {
-                    "x": 0.5,
-                    "y": null
+                    "x": 0.7248716313788232,
+                    "y": 0.5593869809751157
                 },
                 "id": "151"
             },
             {
                 "title": "Eclipse",
-                "description": "Eclipse is an open source (predominanty) Java environment. Android development was tied to Eclipse, untill Google launched Google Studio.\n\nhttps:\/\/eclipse.org\/",
+                "description": "Eclipse is an open source (predominanty) Java environment. Android development was tied to Eclipse, untill Google launched Google Studio.\n\nhttps://eclipse.org/",
                 "axis": {
-                    "x": 0.736,
-                    "y": null
+                    "x": 0.669845905709774,
+                    "y": 0.2848020200376158
                 },
                 "id": "148"
             },
             {
                 "title": "Xcode",
-                "description": "Xcode by Apple is mandatory for iOS development.\n\nhttps:\/\/developer.apple.com\/xcode\/",
+                "description": "Xcode by Apple is mandatory for iOS development.\n\nhttps://developer.apple.com/xcode/",
                 "axis": {
-                    "x": 0.758,
-                    "y": null
+                    "x": 0.5854732432263963,
+                    "y": 0.4316730640552662
                 },
                 "id": "147"
             },
             {
                 "title": "Emacs",
-                "description": "Developed in the 80', Emacs is still the go-to code editor for a large group of developers. It has extensive ways to personalise the editor.\n\nhttps:\/\/www.gnu.org\/software\/emacs\/",
+                "description": "Developed in the 80', Emacs is still the go-to code editor for a large group of developers. It has extensive ways to personalise the editor.\n\nhttps://www.gnu.org/software/emacs/",
                 "axis": {
-                    "x": 0.8,
-                    "y": null
+                    "x": 0.723037395071476,
+                    "y": 0.5593869809751157
                 },
                 "id": "76"
             },
             {
                 "title": "Sublime",
-                "description": "Sublime is a favorite for developers due to speed and stability, but also a large repository of plugins.\n\nhttps:\/\/www.sublimetext.com\/",
+                "description": "Sublime is a favorite for developers due to speed and stability, but also a large repository of plugins.\n\nhttps://www.sublimetext.com/",
                 "axis": {
-                    "x": 0.531667,
-                    "y": null
+                    "x": 0.7853998711768617,
+                    "y": 0.399744556568287
                 },
                 "id": "25"
             },
             {
                 "title": "Visual Studio Code",
-                "description": "Visual Studio Code by Microsoft is free with support for macOS, linux and (of course) windows and a wide variety of [languages](https:\/\/code.visualstudio.com\/?wt.mc_id=DX_841432). IntelliSense (function autocomplete) is one of its key features.",
+                "description": "Visual Studio Code by Microsoft is free with support for macOS, linux and (of course) windows and a wide variety of [languages](https://code.visualstudio.com/?wt.mc_id=DX_841432). IntelliSense (function autocomplete) is one of its key features.",
                 "axis": {
-                    "x": 0.3,
-                    "y": null
+                    "x": 0.34152604772689493,
+                    "y": 0.8116219697175202
                 },
                 "id": "10"
             },
             {
                 "title": "Atom",
-                "description": "Atom by Github is powered by Javascript and quickly gained traction for its ease of use, and wide plugin support.\n\nhttps:\/\/atom.io\/",
+                "description": "Atom by Github is powered by Javascript and quickly gained traction for its ease of use, and wide plugin support.\n\nhttps://atom.io/",
                 "axis": {
-                    "x": 0.404,
-                    "y": null
+                    "x": 0.30851063829787234,
+                    "y": 0.6232439394350405
                 },
                 "id": "9"
             },
@@ -75,46 +75,23 @@
                 "title": "Visual Studio",
                 "description": "https://www.visualstudio.com/",
                 "axis": {
-                    "x": 0.6,
-                    "y": null
+                    "x": 0.6368304962807513,
+                    "y": 0.8084291246202258
                 },
                 "id": "visualstudio"
             }
         ],
         "axis": {
             "y": {
-                "label": "Adoption"
+                "label": "Adoption",
+                "more": "Mainstream",
+                "less": "Niche"
+            },
+            "x": {
+                "label": "Maturity",
+                "more": "Established",
+                "less": "Early"
             }
-        },
-        "states": [
-            {
-                "width": 0.2,
-                "label": "Release"
-            },
-            {
-                "width": 0.2,
-                "label": "Growth"
-            },
-            {
-                "width": 0.2,
-                "label": "Maturity"
-            },
-            {
-                "width": 0.2,
-                "label": "Challenged"
-            },
-            {
-                "width": 0.2,
-                "label": "Superseded"
-            }
-        ],
-        "size": []
-    },
-    "events": [
-        {
-            "date": null,
-            "source": null,
-            "title": null
         }
-    ]
+    }
 }

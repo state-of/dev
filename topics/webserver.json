@@ -5,15 +5,15 @@
             "description": null,
             "snapshot_date": "2017-02-16",
             "permanent_id": "webserver",
-            "chart_type": "bell"
+            "chart_type": "market"
         },
         "items": [
             {
                 "title": "Hapi",
                 "description": "https://hapijs.com/",
                 "axis": {
-                    "x": 0.206,
-                    "y": null
+                    "x": 0.251650773718002,
+                    "y": 0.12196667954810014
                 },
                 "id": "77"
             },
@@ -21,8 +21,8 @@
                 "title": "Meteor",
                 "description": "https://www.meteor.com/",
                 "axis": {
-                    "x": 0.242958,
-                    "y": null
+                    "x": 0.3690388780959109,
+                    "y": 0.12835237046445158
                 },
                 "id": "74"
             },
@@ -30,8 +30,8 @@
                 "title": "Express",
                 "description": "https://expressjs.com/",
                 "axis": {
-                    "x": 0.284507,
-                    "y": null
+                    "x": 0.24064564806349734,
+                    "y": 0.3614303432244582
                 },
                 "id": "73"
             },
@@ -39,8 +39,8 @@
                 "title": "Nginx",
                 "description": "https://nginx.org",
                 "axis": {
-                    "x": 0.611972,
-                    "y": null
+                    "x": 0.6735143133934508,
+                    "y": 0.7286078817418846
                 },
                 "id": "72"
             },
@@ -48,8 +48,8 @@
                 "title": "Node.js",
                 "description": "https://nodejs.org/",
                 "axis": {
-                    "x": 0.397183,
-                    "y": null
+                    "x": 0.3947175370885971,
+                    "y": 0.5338441392510465
                 },
                 "id": "71"
             },
@@ -57,8 +57,8 @@
                 "title": "Apache",
                 "description": "https://www.apache.org/",
                 "axis": {
-                    "x": 0.697183,
-                    "y": null
+                    "x": 0.8532648614112367,
+                    "y": 0.8435504312642901
                 },
                 "id": "70"
             },
@@ -66,46 +66,23 @@
                 "title": "IIS",
                 "description": "hhttps://www.iis.net/",
                 "axis": {
-                    "x": 0.68,
-                    "y": null
+                    "x": 0.8129127015458777,
+                    "y": 0.6647509160643305
                 },
                 "id": "iss"
             }
         ],
         "axis": {
             "y": {
-                "label": "Adoption"
+                "label": "Adoption",
+                "more": "Mainstream",
+                "less": "Niche"
+            },
+            "x": {
+                "label": "Maturity",
+                "more": "Established",
+                "less": "Early"
             }
-        },
-        "states": [
-            {
-                "width": 0.2,
-                "label": "Release"
-            },
-            {
-                "width": 0.2,
-                "label": "Growth"
-            },
-            {
-                "width": 0.2,
-                "label": "Maturity"
-            },
-            {
-                "width": 0.2,
-                "label": "Challenged"
-            },
-            {
-                "width": 0.2,
-                "label": "Superseded"
-            }
-        ],
-        "size": []
-    },
-    "events": [
-        {
-            "date": null,
-            "source": null,
-            "title": null
         }
-    ]
+    }
 }

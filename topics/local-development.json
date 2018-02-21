@@ -5,42 +5,42 @@
             "description": null,
             "snapshot_date": "2017-02-16",
             "permanent_id": "local-development",
-            "chart_type": "bell"
+            "chart_type": "market"
         },
         "items": [
             {
                 "title": "Yeoman",
-                "description": "http:\/\/yeoman.io\/",
+                "description": "http://yeoman.io/",
                 "axis": {
-                    "x": 0.9,
-                    "y": null
+                    "x": 0.8550990327875665,
+                    "y": 0.2720305573674584
                 },
                 "id": "113"
             },
             {
                 "title": "Homebrew",
-                "description": "https:\/\/brew.sh",
+                "description": "https://brew.sh",
                 "axis": {
-                    "x": 0.656,
-                    "y": null
+                    "x": 0.5597945842337101,
+                    "y": 0.7956577070061245
                 },
                 "id": "110"
             },
             {
                 "title": "SVN",
-                "description": "Subversion (SVN)\n\nhttps:\/\/subversion.apache.org\/",
+                "description": "Subversion (SVN)\n\nhttps://subversion.apache.org/",
                 "axis": {
-                    "x": 0.876,
-                    "y": null
+                    "x": 0.8771093490275931,
+                    "y": 0.450830072567418
                 },
                 "id": "108"
             },
             {
                 "title": "Git",
-                "description": "https:\/\/git-scm.com\/",
+                "description": "https://git-scm.com/",
                 "axis": {
-                    "x": 0.502,
-                    "y": null
+                    "x": 0.3965517084649269,
+                    "y": 0.7892720019612631
                 },
                 "id": "107"
             },
@@ -48,8 +48,8 @@
                 "title": "Hot Reload (HMR)",
                 "description": "https://webpack.js.org/concepts/hot-module-replacement/",
                 "axis": {
-                    "x": 0.28,
-                    "y": null
+                    "x": 0.19295670529629322,
+                    "y": 0.5721583130061749
                 },
                 "id": "106"
             },
@@ -57,8 +57,8 @@
                 "title": "Virtual Machine",
                 "description": "An image of a server environment, which can be served locally by either Virtualbox or Docker allows for a consistent environment between the production and the development environment.\n\n* https://www.docker.com/\n* https://www.virtualbox.org/",
                 "axis": {
-                    "x": 0.576,
-                    "y": null
+                    "x": 0.6276595744680851,
+                    "y": 0.6743294524388577
                 },
                 "id": "105"
             },
@@ -66,46 +66,23 @@
                 "title": "zero-config",
                 "description": "Zero-config refers to tools which by out-of-the-box take on optimal assumptions and hence don't need to be setup.\n\n* https://parceljs.org/\n* https://github.com/webpack-preset/webpack-preset",
                 "axis": {
-                    "x": 0.1,
-                    "y": null
+                    "x": 0.060895083812957114,
+                    "y": 0.1315452441796473
                 },
                 "id": "zero"
             }
         ],
         "axis": {
             "y": {
-                "label": "Adoption"
+                "label": "Adoption",
+                "more": "Mainstream",
+                "less": "Niche"
+            },
+            "x": {
+                "label": "Maturity",
+                "more": "Established",
+                "less": "Early"
             }
-        },
-        "states": [
-            {
-                "width": 0.2,
-                "label": "Release"
-            },
-            {
-                "width": 0.2,
-                "label": "Growth"
-            },
-            {
-                "width": 0.2,
-                "label": "Maturity"
-            },
-            {
-                "width": 0.2,
-                "label": "Challenged"
-            },
-            {
-                "width": 0.2,
-                "label": "Superseded"
-            }
-        ],
-        "size": []
-    },
-    "events": [
-        {
-            "date": null,
-            "source": null,
-            "title": null
         }
-    ]
+    }
 }

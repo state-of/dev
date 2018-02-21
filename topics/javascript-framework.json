@@ -5,107 +5,84 @@
             "description": null,
             "snapshot_date": "2017-02-16",
             "permanent_id": "javascript-framework",
-            "chart_type": "bell"
+            "chart_type": "bubble"
         },
         "items": [
             {
                 "title": "Polymer 2.0",
-                "description": "Polymer 2.0 is build around the shadow DOM 1.0 specification. This allows its framework to leverage native Web Components in edge browsers.\n\nhttps:\/\/www.polymer-project.org\/2.0\/docs\/about_20",
+                "description": "Polymer 2.0 is build around the shadow DOM 1.0 specification. This allows its framework to leverage native Web Components in edge browsers.\n\nhttps://www.polymer-project.org/2.0/docs/about_20",
                 "axis": {
-                    "x": 0.16,
-                    "y": null
+                    "x": 0.11775494839282746,
+                    "y": 0.185823737250434
                 },
                 "id": "141"
             },
             {
                 "title": "Aurelia",
-                "description": "[Aurelia](http:\/\/aurelia.io\/).",
+                "description": "[Aurelia](http://aurelia.io/).",
                 "axis": {
-                    "x": 0.196,
-                    "y": null
+                    "x": 0.27916360408701796,
+                    "y": 0.27522351300274883
                 },
                 "id": "139"
             },
             {
                 "title": "ember.js",
-                "description": "[Ember.js](http:\/\/emberjs.com\/).",
+                "description": "[Ember.js](http://emberjs.com/).",
                 "axis": {
-                    "x": 0.788,
-                    "y": null
+                    "x": 0.7762288844331782,
+                    "y": 0.185823737250434
                 },
                 "id": "26"
             },
             {
                 "title": "AngularJS",
-                "description": "AngularJS or Angular 1.0 has seen strong adoption due to its innovation in javascript development [angularJS](https:\/\/angularjs.org\/) but it is advised to move forward with Angular 2.",
+                "description": "AngularJS or Angular 1.0 has seen strong adoption due to its innovation in javascript development [angularJS](https://angularjs.org/) but it is advised to move forward with Angular 2.",
                 "axis": {
-                    "x": 0.734,
-                    "y": null
+                    "x": 0.6955245647024602,
+                    "y": 0.220945061577691
                 },
                 "id": "8"
             },
             {
                 "title": "Angular 2",
-                "description": "A long awaited major release to [AngularJS](https:\/\/angular.io\/). Angular has taken a different route compared to React, where both framework compete each other. \n\nhttps:\/\/angular.io\/",
+                "description": "A long awaited major release to [AngularJS](https://angular.io/). Angular has taken a different route compared to React, where both framework compete each other. \n\nhttps://angular.io/",
                 "axis": {
-                    "x": 0.332,
-                    "y": null
+                    "x": 0.3635363315014129,
+                    "y": 0.4923371491608797
                 },
                 "id": "4"
             },
             {
                 "title": "Vue.js",
-                "description": "A strong competitor to React is [Vue.js](https:\/\/vuejs.org\/). Both demand the latest javascript spec for development and all its advantages. Vue promotes itself to test better in [performance](https:\/\/vuejs.org\/v2\/guide\/comparison.html).",
+                "description": "A strong competitor to React is [Vue.js](https://vuejs.org/). Both demand the latest javascript spec for development and all its advantages. Vue promotes itself to test better in [performance](https://vuejs.org/v2/guide/comparison.html).",
                 "axis": {
-                    "x": 0.4,
-                    "y": null
+                    "x": 0.24798239849983378,
+                    "y": 0.6360153198242188
                 },
                 "id": "2"
             },
             {
                 "title": "React",
-                "description": "Taking the lead in modern modular frameworks [React](https:\/\/facebook.github.io\/react\/) has created a very strong following, and an innovative standard for (frontend) web development. ",
+                "description": "Taking the lead in modern modular frameworks [React](https://facebook.github.io/react/) has created a very strong following, and an innovative standard for (frontend) web development. ",
                 "axis": {
-                    "x": 0.5,
-                    "y": null
+                    "x": 0.3396918438850565,
+                    "y": 0.8052362653944227
                 },
                 "id": "1"
             }
         ],
         "axis": {
             "y": {
-                "label": "Adoption"
+                "label": "Adoption",
+                "more": "Mainstream",
+                "less": "Niche"
+            },
+            "x": {
+                "label": "Maturity",
+                "more": "Established",
+                "less": "Early"
             }
-        },
-        "states": [
-            {
-                "width": 0.2,
-                "label": "Release"
-            },
-            {
-                "width": 0.2,
-                "label": "Growth"
-            },
-            {
-                "width": 0.2,
-                "label": "Maturity"
-            },
-            {
-                "width": 0.2,
-                "label": "Challenged"
-            },
-            {
-                "width": 0.2,
-                "label": "Superseded"
-            }
-        ],
-        "size": []
-    },
-    "events": [
-        {
-            "date": null,
-            "source": null,
-            "title": null
         }
-    ]
+    }
 }

@@ -5,116 +5,93 @@
             "description": null,
             "snapshot_date": "2017-02-16",
             "permanent_id": "cloud-platform",
-            "chart_type": "bell"
+            "chart_type": "market"
         },
         "items": [
             {
                 "title": "Open Stack",
-                "description": "Open Stack is open source software for cloud tooling avoiding competitors' vendor lock-in. Rackspace and NASA are the founders of this project.\n\nhttps:\/\/www.openstack.org\/ ",
+                "description": "Open Stack is open source software for cloud tooling avoiding competitors' vendor lock-in. Rackspace and NASA are the founders of this project.\n\nhttps://www.openstack.org/ ",
                 "axis": {
-                    "x": 0.246,
-                    "y": null
+                    "x": 0.2865003545233544,
+                    "y": 0.18263092041015627
                 },
                 "id": "149"
             },
             {
                 "title": "Rackspace",
-                "description": "Rackspace was initially a traditional hosting company. They transformed by providing customers with their own cloud services, powered by Open Stack. But they are also known for their managed cross-vendor cloud services.\n\nhttps:\/\/www.rackspace.com",
+                "description": "Rackspace was initially a traditional hosting company. They transformed by providing customers with their own cloud services, powered by Open Stack. But they are also known for their managed cross-vendor cloud services.\n\nhttps://www.rackspace.com",
                 "axis": {
-                    "x": 0.7,
-                    "y": null
+                    "x": 0.47542185681931515,
+                    "y": 0.3646232322410301
                 },
                 "id": "137"
             },
             {
                 "title": "App Engine",
-                "description": "Google App Engine is the original cloud vision by Google, where developers can host their app in the cloud, and have it auto-scale behind the scenes.\n\nhttps:\/\/cloud.google.com\/appengine\/",
+                "description": "Google App Engine is the original cloud vision by Google, where developers can host their app in the cloud, and have it auto-scale behind the scenes.\n\nhttps://cloud.google.com/appengine/",
                 "axis": {
-                    "x": 0.864,
-                    "y": null
+                    "x": 0.8349229528548869,
+                    "y": 0.2337164984809028
                 },
                 "id": "136"
             },
             {
                 "title": "Digitalocean",
-                "description": "Digitalocean is a cost effective and developer focused cloud hosting company. Digitalocean has build a custom solution centered around droplets.\n\nhttps:\/\/www.digitalocean.com\/",
+                "description": "Digitalocean is a cost effective and developer focused cloud hosting company. Digitalocean has build a custom solution centered around droplets.\n\nhttps://www.digitalocean.com/",
                 "axis": {
-                    "x": 0.74,
-                    "y": null
+                    "x": 0.655172404837101,
+                    "y": 0.358237542046441
                 },
                 "id": "87"
             },
             {
                 "title": "Heroku",
-                "description": "Heroku offers cloud hosting for apps. It early on became the go-to platform for Rails apps.\n\nhttps:\/\/www.heroku.com\/",
+                "description": "Heroku offers cloud hosting for apps. It early on became the go-to platform for Rails apps.\n\nhttps://www.heroku.com/",
                 "axis": {
-                    "x": 0.768,
-                    "y": null
+                    "x": 0.5928099936627327,
+                    "y": 0.19540230079933452
                 },
                 "id": "86"
             },
             {
                 "title": "AWS",
-                "description": "AWS (Amazon Web Services) is the market leader in cloud hosting, with a wide variety of services.\n\nhttp:\/\/aws.amazon.com\/",
+                "description": "AWS (Amazon Web Services) is the market leader in cloud hosting, with a wide variety of services.\n\nhttp://aws.amazon.com/",
                 "axis": {
-                    "x": 0.501408,
-                    "y": null
+                    "x": 0.7322083818151596,
+                    "y": 0.8116219697175202
                 },
                 "id": "7"
             },
             {
                 "title": "Azure",
-                "description": "Azure by Microsoft is quickly gaining traction, attributed to their enterprise sales, after a relative late entry to market.\n\nhttps:\/\/azure.microsoft.com",
+                "description": "Azure by Microsoft is quickly gaining traction, attributed to their enterprise sales, after a relative late entry to market.\n\nhttps://azure.microsoft.com",
                 "axis": {
-                    "x": 0.37,
-                    "y": null
+                    "x": 0.3360234686668883,
+                    "y": 0.7126436869303385
                 },
                 "id": "6"
             },
             {
                 "title": "Google Cloud",
-                "description": "Google Cloud Platform has matured strongly in the past years, and makes an almost equal competitor to AWS.\n\nhttps:\/\/cloud.google.com\/products\/",
+                "description": "Google Cloud Platform has matured strongly in the past years, and makes an almost equal competitor to AWS.\n\nhttps://cloud.google.com/products/",
                 "axis": {
-                    "x": 0.408,
-                    "y": null
+                    "x": 0.47542185681931515,
+                    "y": 0.709450841833044
                 },
                 "id": "5"
             }
         ],
         "axis": {
             "y": {
-                "label": "Adoption"
+                "label": "Adoption",
+                "more": "Mainstream",
+                "less": "Niche"
+            },
+            "x": {
+                "label": "Maturity",
+                "more": "Established",
+                "less": "Early"
             }
-        },
-        "states": [
-            {
-                "width": 0.2,
-                "label": "Release"
-            },
-            {
-                "width": 0.2,
-                "label": "Growth"
-            },
-            {
-                "width": 0.2,
-                "label": "Maturity"
-            },
-            {
-                "width": 0.2,
-                "label": "Challenged"
-            },
-            {
-                "width": 0.2,
-                "label": "Superseded"
-            }
-        ],
-        "size": []
-    },
-    "events": [
-        {
-            "date": null,
-            "source": null,
-            "title": null
         }
-    ]
+    }
 }

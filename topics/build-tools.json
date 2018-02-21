@@ -5,80 +5,57 @@
             "description": null,
             "snapshot_date": "2017-02-16",
             "permanent_id": "build-tools",
-            "chart_type": "bell"
+            "chart_type": "market"
         },
         "items": [
             {
                 "title": "Browserify",
-                "description": "http:\/\/browserify.org\/",
+                "description": "http://browserify.org/",
                 "axis": {
-                    "x": 0.726,
-                    "y": null
+                    "x": 0.5451210833610373,
+                    "y": 0.5945085802938411
                 },
                 "id": "66"
             },
             {
                 "title": "Gulp",
-                "description": "http:\/\/gulpjs.com\/",
+                "description": "http://gulpjs.com/",
                 "axis": {
-                    "x": 0.652,
-                    "y": null
+                    "x": 0.32685254685422205,
+                    "y": 0.3167309908960475
                 },
                 "id": "65"
             },
             {
                 "title": "Grunt",
-                "description": "http:\/\/gruntjs.com\/",
+                "description": "http://gruntjs.com/",
                 "axis": {
-                    "x": 0.776,
-                    "y": null
+                    "x": 0.4992663444356715,
+                    "y": 0.3167309908960475
                 },
                 "id": "64"
             },
             {
                 "title": "Webpack",
-                "description": "https:\/\/webpack.js.org\/",
+                "description": "https://webpack.js.org/",
                 "axis": {
-                    "x": 0.372,
-                    "y": null
+                    "x": 0.48642701493932844,
+                    "y": 0.8690933267596255
                 },
                 "id": "63"
             }
         ],
         "axis": {
             "y": {
-                "label": "Adoption"
+                "label": "Adoption",
+                "more": "Mainstream",
+                "less": "Niche"
+            },
+            "x": {
+                "label": "Maturity",
+                "more": "Established",
+                "less": "Early"
             }
-        },
-        "states": [
-            {
-                "width": 0.2,
-                "label": "Release"
-            },
-            {
-                "width": 0.2,
-                "label": "Growth"
-            },
-            {
-                "width": 0.2,
-                "label": "Maturity"
-            },
-            {
-                "width": 0.2,
-                "label": "Challenged"
-            },
-            {
-                "width": 0.2,
-                "label": "Superseded"
-            }
-        ],
-        "size": []
-    },
-    "events": [
-        {
-            "date": null,
-            "source": null,
-            "title": null
         }
-    ]
+    }
 }

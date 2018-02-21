@@ -5,24 +5,24 @@
             "description": null,
             "snapshot_date": "2017-02-16",
             "permanent_id": "design",
-            "chart_type": "bell"
+            "chart_type": "market"
         },
         "items": [
             {
                 "title": "Atomic Design",
-                "description": "Atomic Design is a methodology initiated by Brad Frost, which focuses on interface design split into atoms, molecules, organisms and pages.\n\n* http:\/\/atomicdesign.bradfrost.com\/",
+                "description": "Atomic Design is a methodology initiated by Brad Frost, which focuses on interface design split into atoms, molecules, organisms and pages.\n\n* http://atomicdesign.bradfrost.com/",
                 "axis": {
-                    "x": 0.201667,
-                    "y": null
+                    "x": 0.1049156351292387,
+                    "y": 0.28160969038694683
                 },
                 "id": "185"
             },
             {
                 "title": "Metro",
-                "description": "Metro design was popularized by Microsoft for the Windows 10 platform. The design is focused for mobile touch accessibility by applying big colorful squares.\n\nhttps:\/\/www.microsoft.com\/en-us\/stories\/design\/\n\n",
+                "description": "Metro design was popularized by Microsoft for the Windows 10 platform. The design is focused for mobile touch accessibility by applying big colorful squares.\n\nhttps://www.microsoft.com/en-us/stories/design/\n\n",
                 "axis": {
-                    "x": 0.8,
-                    "y": null
+                    "x": 0.5029346871883311,
+                    "y": 0.10281031665243645
                 },
                 "id": "130"
             },
@@ -30,8 +30,8 @@
                 "title": "Skeuomorphic",
                 "description": "Skeuomorphic tries to reflect real life objects. E.g. a wallet, would have a leather look and stitches. Up to iOS 6 ('13) skeuomorphism was the default on the iPhone and iPad.",
                 "axis": {
-                    "x": 0.884,
-                    "y": null
+                    "x": 0.7010271437624668,
+                    "y": 0.11558168838047389
                 },
                 "id": "83"
             },
@@ -39,55 +39,32 @@
                 "title": "Flat",
                 "description": "Flat design tries to drop as much unneeded visual elements like gradients and shadows, and focuses on the use of distinct colors.",
                 "axis": {
-                    "x": 0.766,
-                    "y": null
+                    "x": 0.807410122485871,
+                    "y": 0.8116220974694616
                 },
                 "id": "82"
             },
             {
                 "title": "Material Design",
-                "description": "Material design is promoted by Google as their guideline for web and mobile interface design.\n\nTheir products (gmail, search, analytics) all moved to material design. Also for their open source tools (Angular, Polymer) they supply Material Design UI elements.\n\n[material.io](https:\/\/material.io\/)\n[material-components-web](https:\/\/github.com\/material-components\/material-components-web)",
+                "description": "Material design is promoted by Google as their guideline for web and mobile interface design.\n\nTheir products (gmail, search, analytics) all moved to material design. Also for their open source tools (Angular, Polymer) they supply Material Design UI elements.\n\n[material.io](https://material.io/)\n[material-components-web](https://github.com/material-components/material-components-web)",
                 "axis": {
-                    "x": 0.364,
-                    "y": null
+                    "x": 0.24064564806349734,
+                    "y": 0.5114946075476023
                 },
                 "id": "81"
             }
         ],
         "axis": {
             "y": {
-                "label": "Adoption"
+                "label": "Adoption",
+                "more": "Mainstream",
+                "less": "Niche"
+            },
+            "x": {
+                "label": "Maturity",
+                "more": "Established",
+                "less": "Early"
             }
-        },
-        "states": [
-            {
-                "width": 0.2,
-                "label": "Release"
-            },
-            {
-                "width": 0.2,
-                "label": "Growth"
-            },
-            {
-                "width": 0.2,
-                "label": "Maturity"
-            },
-            {
-                "width": 0.2,
-                "label": "Challenged"
-            },
-            {
-                "width": 0.2,
-                "label": "Superseded"
-            }
-        ],
-        "size": []
-    },
-    "events": [
-        {
-            "date": null,
-            "source": null,
-            "title": null
         }
-    ]
+    }
 }

@@ -5,15 +5,15 @@
             "description": null,
             "snapshot_date": "2017-02-16",
             "permanent_id": "android-development",
-            "chart_type": "bell"
+            "chart_type": "market"
         },
         "items": [
             {
                 "title": "Web View Wrapper",
                 "description": "Phonegap, Cordova or other similar tools allow developers to write HTML and CSS, and employ the mobile's  native API's.\n\nThe app is a wrapper, which loads html from a webserver.",
                 "axis": {
-                    "x": 0.766,
-                    "y": null
+                    "x": 0.7688921339968418,
+                    "y": 0.16347369876140427
                 },
                 "id": "156"
             },
@@ -21,17 +21,17 @@
                 "title": "Java",
                 "description": "The Java programming language is the core language for Android development.",
                 "axis": {
-                    "x": 0.506,
-                    "y": null
+                    "x": 0.8440939395985705,
+                    "y": 0.8690932231867156
                 },
                 "id": "155"
             },
             {
                 "title": "React Native",
-                "description": "React Native is a relative young project with major early adoption by developers thanks to a unique combination of Javascript language environment, maxOS\/Windows\/Linux support and actual native Android and iOS compilation. The write-once, deploy everywhere philosophy has previously been disappointing, but React Native comes very close, see ([React Native at Instagram](https:\/\/engineering.instagram.com\/react-native-at-instagram-dd828a9a90c7#.e9jz0r6e8)).\n\nIncluded devtools like Hot Reload make it very developer friendly compared to java or objective-c.\n\nhttps:\/\/facebook.github.io\/react-native\/",
+                "description": "React Native is a relative young project with major early adoption by developers thanks to a unique combination of Javascript language environment, maxOS/Windows/Linux support and actual native Android and iOS compilation. The write-once, deploy everywhere philosophy has previously been disappointing, but React Native comes very close, see ([React Native at Instagram](https://engineering.instagram.com/react-native-at-instagram-dd828a9a90c7#.e9jz0r6e8)).\n\nIncluded devtools like Hot Reload make it very developer friendly compared to java or objective-c.\n\nhttps://facebook.github.io/react-native/",
                 "axis": {
-                    "x": 0.348,
-                    "y": null
+                    "x": 0.251650773718002,
+                    "y": 0.18901651894084992
                 },
                 "id": "154"
             },
@@ -39,46 +39,23 @@
                 "title": "Xamarin",
                 "description": "https://www.xamarin.com/",
                 "axis": {
-                    "x": 0.49,
-                    "y": null
+                    "x": 0.3360234686668883,
+                    "y": 0.3454660876765596
                 },
                 "id": "xamarin"
             }
         ],
         "axis": {
             "y": {
-                "label": "Adoption"
+                "label": "Adoption",
+                "more": "Mainstream",
+                "less": "Niche"
+            },
+            "x": {
+                "label": "Maturity",
+                "more": "Established",
+                "less": "Early"
             }
-        },
-        "states": [
-            {
-                "width": 0.2,
-                "label": "Release"
-            },
-            {
-                "width": 0.2,
-                "label": "Growth"
-            },
-            {
-                "width": 0.2,
-                "label": "Maturity"
-            },
-            {
-                "width": 0.2,
-                "label": "Challenged"
-            },
-            {
-                "width": 0.2,
-                "label": "Superseded"
-            }
-        ],
-        "size": []
-    },
-    "events": [
-        {
-            "date": null,
-            "source": null,
-            "title": null
         }
-    ]
+    }
 }

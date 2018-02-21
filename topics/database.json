@@ -5,51 +5,51 @@
             "description": null,
             "snapshot_date": "2017-02-16",
             "permanent_id": "database",
-            "chart_type": "bell"
+            "chart_type": "market"
         },
         "items": [
             {
                 "title": "PostgreSQL",
-                "description": "https:\/\/www.postgresql.org\/",
+                "description": "https://www.postgresql.org/",
                 "axis": {
-                    "x": 0.56,
-                    "y": null
+                    "x": 0.7285399741314827,
+                    "y": 0.8403575858061145
                 },
                 "id": "101"
             },
             {
                 "title": "SQLite",
-                "description": "https:\/\/www.sqlite.org\/",
+                "description": "https://www.sqlite.org/",
                 "axis": {
-                    "x": 0.218,
-                    "y": null
+                    "x": 0.08840793041472739,
+                    "y": 0.19540220985720147
                 },
                 "id": "100"
             },
             {
                 "title": "MariaDB",
-                "description": "https:\/\/mariadb.org\/",
+                "description": "https://mariadb.org/",
                 "axis": {
-                    "x": 0.44,
-                    "y": null
+                    "x": 0.3727072533140791,
+                    "y": 0.43486581701951965
                 },
                 "id": "99"
             },
             {
                 "title": "MySQL",
-                "description": "https:\/\/www.mysql.com\/",
+                "description": "https://www.mysql.com/",
                 "axis": {
-                    "x": 0.668333,
-                    "y": null
+                    "x": 0.8330887814785571,
+                    "y": 0.6839080170704048
                 },
                 "id": "98"
             },
             {
                 "title": "Mongo",
-                "description": "https:\/\/www.mongodb.com\/",
+                "description": "https://www.mongodb.com/",
                 "axis": {
-                    "x": 0.78,
-                    "y": null
+                    "x": 0.5652971632937167,
+                    "y": 0.4125158705552696
                 },
                 "id": "97"
             },
@@ -57,46 +57,23 @@
                 "title": "SQL Server",
                 "description": "http://www.microsoft.com/sqlserver",
                 "axis": {
-                    "x": 0.7,
-                    "y": null
+                    "x": 0.8514306900349069,
+                    "y": 0.8914431555224559
                 },
                 "id": "sql"
             }
         ],
         "axis": {
             "y": {
-                "label": "Adoption"
+                "label": "Adoption",
+                "more": "Mainstream",
+                "less": "Niche"
+            },
+            "x": {
+                "label": "Maturity",
+                "more": "Established",
+                "less": "Early"
             }
-        },
-        "states": [
-            {
-                "width": 0.2,
-                "label": "Release"
-            },
-            {
-                "width": 0.2,
-                "label": "Growth"
-            },
-            {
-                "width": 0.2,
-                "label": "Maturity"
-            },
-            {
-                "width": 0.2,
-                "label": "Challenged"
-            },
-            {
-                "width": 0.2,
-                "label": "Superseded"
-            }
-        ],
-        "size": []
-    },
-    "events": [
-        {
-            "date": null,
-            "source": null,
-            "title": null
         }
-    ]
+    }
 }

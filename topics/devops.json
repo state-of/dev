@@ -5,7 +5,7 @@
             "description": null,
             "snapshot_date": "2017-02-16",
             "permanent_id": "devops",
-            "chart_type": "bell"
+            "chart_type": "market"
         },
         "items": [
             {
@@ -25,42 +25,28 @@
                     "y": null
                 },
                 "id": "111"
+            },
+            {
+                "title": "Contribute to this chart",
+                "description": "Go and [edit](https://github.com/state-of/dev/blob/master/topics/devops.json) the data of this chart.",
+                "axis": {
+                    "x": 0.5,
+                    "y": 0.5
+                },
+                "id": "contribute"
             }
         ],
         "axis": {
             "y": {
-                "label": "Adoption"
+                "label": "Adoption",
+                "more": "Mainstream",
+                "less": "Niche"
+            },
+            "x": {
+                "label": "Maturity",
+                "more": "Established",
+                "less": "Early"
             }
-        },
-        "states": [
-            {
-                "width": 0.2,
-                "label": "Release"
-            },
-            {
-                "width": 0.2,
-                "label": "Growth"
-            },
-            {
-                "width": 0.2,
-                "label": "Maturity"
-            },
-            {
-                "width": 0.2,
-                "label": "Challenged"
-            },
-            {
-                "width": 0.2,
-                "label": "Superseded"
-            }
-        ],
-        "size": []
-    },
-    "events": [
-        {
-            "date": null,
-            "source": null,
-            "title": null
         }
-    ]
+    }
 }

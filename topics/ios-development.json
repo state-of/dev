@@ -5,80 +5,57 @@
             "description": null,
             "snapshot_date": "2017-02-16",
             "permanent_id": "ios-development",
-            "chart_type": "bell"
+            "chart_type": "market"
         },
         "items": [
             {
                 "title": "Web View Wrapper",
                 "description": "Phonegap, Cordova or other similar tools allow developers to write HTML and CSS, and employ the mobile's native API's.\n\nThe app is a wrapper, which loads html from a webserver.",
                 "axis": {
-                    "x": 0.804,
-                    "y": null
+                    "x": 0.767057962620512,
+                    "y": 0.24648787887008106
                 },
                 "id": "161"
             },
             {
                 "title": "Swift",
-                "description": "Developed for Apple's ecosystem (iOS, macOS). Swift is a young and modern language.\n\nhttps:\/\/developer.apple.com\/swift\/",
+                "description": "Developed for Apple's ecosystem (iOS, macOS). Swift is a young and modern language.\n\nhttps://developer.apple.com/swift/",
                 "axis": {
-                    "x": 0.397026,
-                    "y": null
+                    "x": 0.25898752415433846,
+                    "y": 0.34546616165726274
                 },
                 "id": "159"
             },
             {
                 "title": "React Native",
-                "description": "React Native is a relative young project with major early adoption by developers thanks to a unique combination of Javascript language environment, maxOS\/Windows\/Linux support and actual native Android and iOS compilation. The write-once, deploy everywhere philosophy has previously been disappointing, but React Native comes very close, see ([React Native at Instagram](https:\/\/engineering.instagram.com\/react-native-at-instagram-dd828a9a90c7#.e9jz0r6e8)).\n\nIncluded devtools like Hot Reload make it very developer friendly compared to java or objective-c.\n\nhttps:\/\/facebook.github.io\/react-native\/",
+                "description": "React Native is a relative young project with major early adoption by developers thanks to a unique combination of Javascript language environment, maxOS/Windows/Linux support and actual native Android and iOS compilation. The write-once, deploy everywhere philosophy has previously been disappointing, but React Native comes very close, see ([React Native at Instagram](https://engineering.instagram.com/react-native-at-instagram-dd828a9a90c7#.e9jz0r6e8)).\n\nIncluded devtools like Hot Reload make it very developer friendly compared to java or objective-c.\n\nhttps://facebook.github.io/react-native/",
                 "axis": {
-                    "x": 0.330027,
-                    "y": null
+                    "x": 0.16727806253636138,
+                    "y": 0.2975734569408276
                 },
                 "id": "158"
             },
             {
                 "title": "Objective-C",
-                "description": "Objective-C is the core language for iOS development. Its relatively low-level, which Apple solved by creating a more accessible language: Swift.\n\nhttps:\/\/developer.apple.com\/library\/content\/documentation\/C",
+                "description": "Objective-C is the core language for iOS development. Its relatively low-level, which Apple solved by creating a more accessible language: Swift.\n\nhttps://developer.apple.com/library/content/documentation/C",
                 "axis": {
-                    "x": 0.617876,
-                    "y": null
+                    "x": 0.7853998711768617,
+                    "y": 0.7413793210630064
                 },
                 "id": "157"
             }
         ],
         "axis": {
             "y": {
-                "label": "Adoption"
+                "label": "Adoption",
+                "more": "Mainstream",
+                "less": "Niche"
+            },
+            "x": {
+                "label": "Maturity",
+                "more": "Established",
+                "less": "Early"
             }
-        },
-        "states": [
-            {
-                "width": 0.2,
-                "label": "Release"
-            },
-            {
-                "width": 0.2,
-                "label": "Growth"
-            },
-            {
-                "width": 0.2,
-                "label": "Maturity"
-            },
-            {
-                "width": 0.2,
-                "label": "Challenged"
-            },
-            {
-                "width": 0.2,
-                "label": "Superseded"
-            }
-        ],
-        "size": []
-    },
-    "events": [
-        {
-            "date": null,
-            "source": null,
-            "title": null
         }
-    ]
+    }
 }

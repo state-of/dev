@@ -5,15 +5,15 @@
             "description": null,
             "snapshot_date": "2017-02-16",
             "permanent_id": "javascript-syntax",
-            "chart_type": "bell"
+            "chart_type": "bubble"
         },
         "items": [
             {
                 "title": "Flow",
-                "description": "https:\/\/flowtype.org\/",
+                "description": "https://flowtype.org/",
                 "axis": {
                     "x": 0.176,
-                    "y": null
+                    "y": 0.2
                 },
                 "id": "85"
             },
@@ -21,44 +21,44 @@
                 "title": "Vanilla",
                 "description": "Based on the ECMAscript specification *vanilla* or plain Javascript is making leaps with ES5 and ES2015 that support advanced syntax and features.",
                 "axis": {
-                    "x": 0.634,
-                    "y": null
+                    "x": 0.7743947130568484,
+                    "y": 0.7381864759657117
                 },
                 "id": "62"
             },
             {
                 "title": "TypeScript",
-                "description": "A superset to Javascript, enforcing typing and advanced OO programming.\n\nhttps:\/\/www.typescriptlang.org\/\n[typescript 2.2](https:\/\/blogs.msdn.microsoft.com\/typescript\/2017\/02\/22\/announcing-typescript-2-2\/)",
+                "description": "A superset to Javascript, enforcing typing and advanced OO programming.\n\nhttps://www.typescriptlang.org/\n[typescript 2.2](https://blogs.msdn.microsoft.com/typescript/2017/02/22/announcing-typescript-2-2/)",
                 "axis": {
-                    "x": 0.288,
-                    "y": null
+                    "x": 0.08840793041472739,
+                    "y": 0.42528737386067705
                 },
                 "id": "57"
             },
             {
                 "title": "CoffeeScript",
-                "description": "http:\/\/coffeescript.org\/",
+                "description": "http://coffeescript.org/",
                 "axis": {
-                    "x": 0.758,
-                    "y": null
+                    "x": 0.3011738878615359,
+                    "y": 0.3678161055953414
                 },
                 "id": "56"
             },
             {
                 "title": "Babel",
-                "description": "Babel allows developers to write in the modern ECMAscript specification, while compiling to a wide range of (older) browser support.\n\nhttps:\/\/babeljs.io\/",
+                "description": "Babel allows developers to write in the modern ECMAscript specification, while compiling to a wide range of (older) browser support.\n\nhttps://babeljs.io/",
                 "axis": {
-                    "x": 0.368,
-                    "y": null
+                    "x": 0.1562729206491024,
+                    "y": 0.5657726711697049
                 },
                 "id": "24"
             },
             {
                 "title": "ES2015",
-                "description": "ES2015 is a highly anticipated successor to ES5 (2009) that implements features which makes Javascript a more advanced language.\n\n* https:\/\/blog.mozilla.org\/javascript\/2017\/02\/22\/ecmascript-2016plus-in-firefox\/\n* https:\/\/blog.chromium.org\/2016\/04\/es6-es7-in-browser.html\n",
+                "description": "ES2015 is a highly anticipated successor to ES5 (2009) that implements features which makes Javascript a more advanced language.\n\n* https://blog.mozilla.org/javascript/2017/02/22/ecmascript-2016plus-in-firefox/\n* https://blog.chromium.org/2016/04/es6-es7-in-browser.html\n",
                 "axis": {
-                    "x": 0.46,
-                    "y": null
+                    "x": 0.5781364927900599,
+                    "y": 0.7349936026114005
                 },
                 "id": "23"
             },
@@ -66,8 +66,8 @@
                 "title": "ES2016",
                 "description": "ES2016 brings only two new features to Javascript: Array.prototype.includes and Exponentiation Operator. The small change is intented.\n* https://medium.freecodecamp.org/ecmascript-2016-es7-features-86903c5cab70",
                 "axis": {
-                    "x": 0.26,
-                    "y": null
+                    "x": 0.3231841391705452,
+                    "y": 0.7349936026114005
                 },
                 "id": "22"
             },
@@ -75,46 +75,23 @@
                 "title": "ES2018 ",
                 "description": "As determined by TC39, ES2018 introduces async iterators, object spread operator, Promise.prototype.finally and more.",
                 "axis": {
-                    "x": 0.1,
-                    "y": null
+                    "x": 0.04805576243299119,
+                    "y": 0.09003832781756371
                 },
                 "id": "es2018"
             }
         ],
         "axis": {
             "y": {
-                "label": "Adoption"
+                "label": "Adoption",
+                "more": "Mainstream",
+                "less": "Niche"
+            },
+            "x": {
+                "label": "Maturity",
+                "more": "Established",
+                "less": "Early"
             }
-        },
-        "states": [
-            {
-                "width": 0.2,
-                "label": "Release"
-            },
-            {
-                "width": 0.2,
-                "label": "Growth"
-            },
-            {
-                "width": 0.2,
-                "label": "Maturity"
-            },
-            {
-                "width": 0.2,
-                "label": "Challenged"
-            },
-            {
-                "width": 0.2,
-                "label": "Superseded"
-            }
-        ],
-        "size": []
-    },
-    "events": [
-        {
-            "date": null,
-            "source": null,
-            "title": null
         }
-    ]
+    }
 }

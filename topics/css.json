@@ -5,33 +5,33 @@
             "description": null,
             "snapshot_date": "2017-02-16",
             "permanent_id": "css",
-            "chart_type": "bell"
+            "chart_type": "bubble"
         },
         "items": [
             {
                 "title": "cssnext",
-                "description": "Edge CSS syntax made available for browsers now.\n\nhttp:\/\/cssnext.io\/",
+                "description": "Edge CSS syntax made available for browsers now.\n\nhttp://cssnext.io/",
                 "axis": {
-                    "x": 0.162,
-                    "y": null
+                    "x": 0.35803375244140623,
+                    "y": 0.2752234310826541
                 },
                 "id": "172"
             },
             {
                 "title": "CSS Modules",
-                "description": "https:\/\/github.com\/css-modules\/css-modules",
+                "description": "https://github.com/css-modules/css-modules",
                 "axis": {
-                    "x": 0.11,
-                    "y": null
+                    "x": 0.14710198260368185,
+                    "y": 0.2656448664511071
                 },
                 "id": "138"
             },
             {
                 "title": "Flexbox",
-                "description": "Flexbox is the modern improved way to layout visual elements.\n\nhttps:\/\/developer.mozilla.org\/en-US\/docs\/Web\/CSS\/CSS_Flexible_Box_Layout\/Using_CSS_flexible_boxes",
+                "description": "Flexbox is the modern improved way to layout visual elements.\n\nhttps://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Using_CSS_flexible_boxes",
                 "axis": {
-                    "x": 0.414,
-                    "y": null
+                    "x": 0.3672047067195811,
+                    "y": 0.7413792918316076
                 },
                 "id": "129"
             },
@@ -39,26 +39,26 @@
                 "title": "Web Components",
                 "description": "Web Components allow for modular CSS using import() and the Shadow DOM which solve complex nested selectors that could overwrite each other.",
                 "axis": {
-                    "x": 0.206,
-                    "y": null
+                    "x": 0.14710198260368185,
+                    "y": 0.2656448664511071
                 },
                 "id": "61"
             },
             {
                 "title": "Less",
-                "description": "Less adds advanced features to CSS, including a nested CSS syntax, parameters and mixins. Less is a pre-processor, hence needs to be compiled to CSS. \n\nhttp:\/\/lesscss.org\/",
+                "description": "Less adds advanced features to CSS, including a nested CSS syntax, parameters and mixins. Less is a pre-processor, hence needs to be compiled to CSS. \n\nhttp://lesscss.org/",
                 "axis": {
-                    "x": 0.482,
-                    "y": null
+                    "x": 0.47909023203748335,
+                    "y": 0.8180076393418646
                 },
                 "id": "60"
             },
             {
                 "title": "SASS",
-                "description": "SASS adds advanced features to CSS, including a nested CSS syntax, parameters and mixins. Less is a pre-processor, hence needs to be compiled to CSS. \n\nhttp:\/\/sass-lang.com\/",
+                "description": "SASS adds advanced features to CSS, including a nested CSS syntax, parameters and mixins. Less is a pre-processor, hence needs to be compiled to CSS. \n\nhttp://sass-lang.com/",
                 "axis": {
-                    "x": 0.566,
-                    "y": null
+                    "x": 0.47909023203748335,
+                    "y": 0.5977011049286007
                 },
                 "id": "59"
             },
@@ -66,8 +66,8 @@
                 "title": "Plain",
                 "description": "Writing plain CSS is almost an anti-pattern for bigger projects because its hard to maintain. \n\nIt might be still a good option for a small project that don't want to employ build tools.",
                 "axis": {
-                    "x": 0.808,
-                    "y": null
+                    "x": 0.8294203737948803,
+                    "y": 0.1985950835723972
                 },
                 "id": "58"
             },
@@ -75,46 +75,23 @@
                 "title": "Grid",
                 "description": "Next to Flexbox, a CSS grid support is covered by the major browsers, and brings several advantages for positioning.\n\nhttps://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout",
                 "axis": {
-                    "x": 0.22,
-                    "y": null
+                    "x": 0.27182685365068154,
+                    "y": 0.5051084736134253
                 },
                 "id": "grid"
             }
         ],
         "axis": {
             "y": {
-                "label": "Adoption"
+                "label": "Adoption",
+                "more": "Mainstream",
+                "less": "Niche"
+            },
+            "x": {
+                "label": "Maturity",
+                "more": "Established",
+                "less": "Early"
             }
-        },
-        "states": [
-            {
-                "width": 0.2,
-                "label": "Release"
-            },
-            {
-                "width": 0.2,
-                "label": "Growth"
-            },
-            {
-                "width": 0.2,
-                "label": "Maturity"
-            },
-            {
-                "width": 0.2,
-                "label": "Challenged"
-            },
-            {
-                "width": 0.2,
-                "label": "Superseded"
-            }
-        ],
-        "size": []
-    },
-    "events": [
-        {
-            "date": null,
-            "source": null,
-            "title": null
         }
-    ]
+    }
 }

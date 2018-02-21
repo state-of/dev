@@ -5,15 +5,15 @@
             "description": null,
             "snapshot_date": "2017-02-16",
             "permanent_id": "machine-intelligence",
-            "chart_type": "bell"
+            "chart_type": "market"
         },
         "items": [
             {
                 "title": "Watson",
                 "description": "",
                 "axis": {
-                    "x": 0.68,
-                    "y": null
+                    "x": 0.2865003545233544,
+                    "y": 0.24968061090320848
                 },
                 "id": "104"
             },
@@ -21,8 +21,8 @@
                 "title": "OpenAI",
                 "description": "",
                 "axis": {
-                    "x": 0.31,
-                    "y": null
+                    "x": 0.1067498227383228,
+                    "y": 0.14112380881119435
                 },
                 "id": "103"
             },
@@ -30,46 +30,32 @@
                 "title": "TensorFlow",
                 "description": "",
                 "axis": {
-                    "x": 0.52,
-                    "y": null
+                    "x": 0.18561995485995678,
+                    "y": 0.38697310688986397
                 },
                 "id": "102"
+            },
+            {
+                "title": "Contribute to this chart",
+                "description": "Go and [edit](https://github.com/state-of/dev/blob/master/topics/machine-intelligence.json) the data of this chart.",
+                "axis": {
+                    "x": 0.5,
+                    "y": 0.5
+                },
+                "id": "contribute"
             }
         ],
         "axis": {
             "y": {
-                "label": "Adoption"
+                "label": "Adoption",
+                "more": "Mainstream",
+                "less": "Niche"
+            },
+            "x": {
+                "label": "Maturity",
+                "more": "Established",
+                "less": "Early"
             }
-        },
-        "states": [
-            {
-                "width": 0.2,
-                "label": "Release"
-            },
-            {
-                "width": 0.2,
-                "label": "Growth"
-            },
-            {
-                "width": 0.2,
-                "label": "Maturity"
-            },
-            {
-                "width": 0.2,
-                "label": "Challenged"
-            },
-            {
-                "width": 0.2,
-                "label": "Superseded"
-            }
-        ],
-        "size": []
-    },
-    "events": [
-        {
-            "date": null,
-            "source": null,
-            "title": null
         }
-    ]
+    }
 }
