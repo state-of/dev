@@ -5,7 +5,7 @@
 All the charts on https://stateofdev.com/ are build using the files in this repository. We welcome and encourage proposals to changes to these files.
 
 See this video guide on how to propose changes using `Edit Mode`:
-[https://youtu.be/_JuBDnwRO_A](https://youtu.be/_JuBDnwRO_A)
+[![Guide Video](resources/guide-video.gif)](https://youtu.be/t16fpxs8Qps)
 
 If you have little to no experience with Github or git, contributing might look a bit daunting. Luckily you can make changes completely from the browser.
 
