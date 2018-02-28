@@ -5,6 +5,8 @@
 All the charts on https://stateofdev.com/ are build using the files in this repository. We welcome and encourage proposals to changes to these files.
 
 See this video guide on how to propose changes using `Edit Mode`:
+
+
 [![Guide Video](resources/guide-video.gif)](https://youtu.be/t16fpxs8Qps)
 
 If you have little to no experience with Github or git, contributing might look a bit daunting. Luckily you can make changes completely from the browser.
@@ -26,6 +28,8 @@ We are open to:
 ## Beginners
 Please use `Edit Mode` which is available in the chart menu. You can move items and add items directly in the chart.
 
+You download your chart changes, and propose your changes within Github as a pull request.
+
 
 ## Advanced changes
 
@@ -41,6 +45,7 @@ JSON is hard to format by hand, especially combining with markdown. The next ver
 
 ### Chart types
 Initially build around the hype cycle curve, it now supports a bell and bubble chart type as well. Bubble should become the default:
+
 ![Example](https://cdn-images-1.medium.com/max/800/1*dn274lyUoylpBUFJSSDldg.gif)
 
 1. 'bubble' plots a X by Y graph without a curve
