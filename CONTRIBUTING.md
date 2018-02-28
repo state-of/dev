@@ -9,9 +9,9 @@ See this video guide on how to propose changes using `Edit Mode`:
 
 [![Guide Video](resources/guide-video.gif)](https://youtu.be/t16fpxs8Qps)
 
-If you have little to no experience with Github or git, contributing might look a bit daunting. Luckily you can make changes completely from the browser.
+If you have little to no experience with Github or git, contributing might look a bit daunting. Luckily you can make changes completely from within the browser as shown in the video above.
 
-Next to "Edit Mode" you can edit the chart json settings files, but this is a bit more complicated unfortunately.
+Next to "Edit Mode" for advanced usage you can also edit the chart files themselves, but this is a bit more complicated unfortunately.
 
 We welcome and encourage:
 * adding or updating descriptions
@@ -44,13 +44,11 @@ It's best to just browse a bit through the repository to get a quick understandi
 JSON is hard to format by hand, especially combining with markdown. The next version will move to a javascript config syntax and a preview featured which should make proposing changes easier.
 
 ### Chart types
-Initially build around the hype cycle curve, it now supports a bell and bubble chart type as well. Bubble should become the default:
+We support three type of charts, of which `bubble` is the default.
 
-![Example](https://cdn-images-1.medium.com/max/800/1*dn274lyUoylpBUFJSSDldg.gif)
-
-1. 'bubble' plots a X by Y graph without a curve
-2. 'bell' contains several states and each item sits on a bell curve
-3. 'hype' follow the hype cycle curve for each hype cycle phase.
+1. `bubble` plots a graph with items places on the x and y axis, without any curve
+2. `bell` contains several states and each item sits on a bell curve
+3. `hype` follows the hype cycle curve for each hype cycle phase.
 
 ### Attributes
 Attributes of the chart.
