@@ -9,15 +9,6 @@
         },
         "items": [
             {
-                "title": "#F",
-                "description": "F Sharp is an open source cross-platform language, lead by Microsoft and part of the .NET languages. \n\n### Resources\n* https:\/\/en.wikipedia.org\/wiki\/F_Sharp_(programming_language)\n* https:\/\/docs.microsoft.com\/en-us\/dotnet\/articles\/fsharp\/tour\n* http:\/\/www.tryfsharp.org\/Create.",
-                "axis": {
-                    "x": 0.11,
-                    "y": null
-                },
-                "id": "180"
-            },
-            {
                 "title": "Rust",
                 "description": "Rust is an open source language, with Mozilla as lead contributor, focussed on concurrency and memory safety. \n\n### Resources\n* https:\/\/www.rust-lang.org\n* [arewewebyet](http:\/\/www.arewewebyet.org\/).",
                 "axis": {
