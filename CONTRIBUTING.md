@@ -36,7 +36,11 @@ You download your chart changes, and propose your changes within Github as a pul
 ### Data structure
 The structure to the charts is setup as follows: categories represent a broader subject, each referencing to multiple relevant topics. A topic contains data to visualize the current state of that topic in a chart.
 
-A good example of a topic is: [topics/programming-language.json](topics/programming-language.json).
+A list of all topics is available here: [topics/](topics/).
+
+A good example of a topic is [topics/programming-language.json](topics/programming-language.json) which creates this chart:
+
+ [![Programming Language](https://stateofdev.com/img/topics/programming-language.png)](https://stateofdev.com/t/programming-language)
 
 It's best to just browse a bit through the repository to get a quick understanding.
 
@@ -55,7 +59,7 @@ Attributes of the chart.
 * title - A reference title
 * subtitle - A promotional title. Usually in the form of a question of which the chart is the answer.
 * description - A long form description of what the chart answers. Markdown only.
-* chart_type - Type of chart to render, either 'bubble', 'market' or 'hype'.
+* chart_type - Type of chart to render, either `bubble`, `market` or `hype`.
 * permanent_id = A permanent slug ID.
 
 ### Items
@@ -90,8 +94,8 @@ Determines the size of the bubble.
 
 ### Positioning item
 The position is determined by:
-- 'bubble' a float number [0.0 - 1.0] for X and Y
-- 'hype' 'bell' a float number [0.0 - 1.0] for X
+- `bubble` a float number [0.0 - 1.0] for X and Y
+- `hype` and `bell` a float number [0.0 - 1.0] for X
 
 ## Merging proposal
 A commit should be followed up by a merge requests which starts a discussion thread. Make clear why you propose a change. Most changes are merged, letting the community eventually settle on a consensus variation.
