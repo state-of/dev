@@ -1,5 +1,15 @@
 # Contributing
-All the data is available to contributions, preferable from experts in the relevant topic.
+
+## Introduction
+
+All the charts on https://stateofdev.com/ are build using the files in this repository. We welcome and encourage proposals to changes to these files.
+
+See this video guide on how to propose changes using `Edit Mode`:
+[https://youtu.be/_JuBDnwRO_A](https://youtu.be/_JuBDnwRO_A)
+
+If you have little to no experience with Github or git, contributing might look a bit daunting. Luckily you can make changes completely from the browser.
+
+Next to "Edit Mode" you can edit the chart json settings files, but this is a bit more complicated unfortunately.
 
 We welcome and encourage:
 * adding or updating descriptions
@@ -13,25 +23,21 @@ We are open to:
 * changing the chart type
 * ...
 
-## Ideas
-[WIP] ideas of topics and categories.
-
 ## Beginners
-## Beginners
-If you have little to no experience with github or git, contributing might look a bit daunting. Luckily you can make changes completely from the browser. This introduction [guide](https://guides.github.com/activities/forking/) will help you get started with [forking](https://guides.github.com/activities/forking/), [edittng](https://guides.github.com/activities/hello-world/#commit) and creating a [pull request](https://guides.github.com/activities/hello-world/#merge).
+Please use `Edit Mode` which is available in the chart menu. You can move items and add items directly in the chart.
 
-### Chart
-To reposition items in the chart, click the menu dots above the chart. Select `Edit Mode`. Drag the dots to a new position. Open the browser developer console, and copy the data and replace items[{...}] with this data.
 
-## Data structure
-The structure is setup as following: categories represent a broader subject, referencing to multiple relevant topics. Each topic contains data to visualize the current state of that topic.
+## Advanced changes
 
-A good example of a topic is: [topics/programming-language.json](topics/programming-language.json). That topic is referenced by the category [categories/backend.json](categories/backend.json).
+### Data structure
+The structure to the charts is setup as follows: categories represent a broader subject, each referencing to multiple relevant topics. A topic contains data to visualize the current state of that topic in a chart.
+
+A good example of a topic is: [topics/programming-language.json](topics/programming-language.json).
 
 It's best to just browse a bit through the repository to get a quick understanding.
 
-## Data Format
-JSON is hard to format by hand, especially combining with markdown. The next version will move to a javascript config syntax, which should make editing easier.
+### Data Format
+JSON is hard to format by hand, especially combining with markdown. The next version will move to a javascript config syntax and a preview featured which should make proposing changes easier.
 
 ### Chart types
 Initially build around the hype cycle curve, it now supports a bell and bubble chart type as well. Bubble should become the default:
@@ -41,7 +47,7 @@ Initially build around the hype cycle curve, it now supports a bell and bubble c
 2. 'bell' contains several states and each item sits on a bell curve
 3. 'hype' follow the hype cycle curve for each hype cycle phase.
 
-## Attributes
+### Attributes
 Attributes of the chart.
 * title - A reference title
 * subtitle - A promotional title. Usually in the form of a question of which the chart is the answer.
@@ -84,21 +90,15 @@ The position is determined by:
 - 'bubble' a float number [0.0 - 1.0] for X and Y
 - 'hype' 'bell' a float number [0.0 - 1.0] for X
 
-## Events [WIP]
-Events that impact the items in the charts.
-* date (Y-m-d)
-* source (link)
-* title
-* reference_id = to item ID.
-
 ## Merging proposal
-A commit should be followed up by a merge requests which starts a discussion thread, of which a decision is made to merge or discard.
+A commit should be followed up by a merge requests which starts a discussion thread. Make clear why you propose a change. Most changes are merged, letting the community eventually settle on a consensus variation.
 
 # Guidelines
 1. Don't commit changes that have a sole commercial or promotional intent. General rule is to not add any items to which you are affiliated. Updating inaccuracies or descriptions are allowed and encouraged.
 2. Don't be an ass by forcing your personal opinion.
 
 # Future
-Looking for a way to make snapshots of the data to allow moving forward/backward into time.
-Easy tool to create and edit a great chart, and output JSON.
-Optionally looking at changing .json to a .md format.
+* Looking for a way to make snapshots of the data to allow moving forward/backward into time.
+* Support (news) events, to understand better why things are were they are.
+* Easy tool to create and edit a great chart, and easily propose a change.
+* Optionally looking at changing .json to a .js format.
