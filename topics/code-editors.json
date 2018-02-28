@@ -1,7 +1,7 @@
 {
     "topic": {
         "attributes": {
-            "title": "Text Editors",
+            "title": "Code Editors",
             "description": null,
             "snapshot_date": "2017-02-16",
             "permanent_id": "text-editors",
@@ -10,7 +10,7 @@
         "items": [
             {
                 "title": "Vim",
-                "description": "Vim is the go-to command line text editor on Linux with a rich feature set.",
+                "description": "Vim is the go-to command line code editor on Linux with a rich feature set.",
                 "axis": {
                     "x": 0.7248716313788232,
                     "y": 0.5593869809751157
