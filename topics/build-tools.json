@@ -36,6 +36,15 @@
                 "id": "64"
             },
             {
+                "title": "Parcel",
+                "description": "https://parceljs.org/",
+                "axis": {
+                    "x": 0.2,
+                    "y": 0.2
+                },
+                "id": "67"
+            },
+            {
                 "title": "Webpack",
                 "description": "https://webpack.js.org/",
                 "axis": {
